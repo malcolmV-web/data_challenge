@@ -1,0 +1,9 @@
+Etape 02 : nettoyage. Un dossier par source ; fichiers 02_nettoye_* (donnees), 02_controles_* (controles), 02_journal_* (journal).
+Decoupage : 45 provinces et 13 regions (ancien decoupage). Les rapports ESU 2026 (17 regions, 47 provinces) sont ramenes aux provinces anciennes
+par la table de correspondance COD-AB ; KOOSIN (ESU) = KOSSIN (COD-AB) = KOSSI (annuaire).
+Anomalies des sources, documentees et sans effet sur les calculs :
+ - projections INSD, Oudalan, 2031 : la colonne Ensemble repete la valeur Homme de 2029 ; le total retenu est garcons + filles ;
+ - projections INSD nationales, tableau A2.2, 2025 : urbain + rural differe de l'ensemble ; ces colonnes ne sont pas utilisees ;
+ - classeur statistique et annuaire : 9 ecarts sur 390 en 2018 (Est, Nord, Sahel), au plus 4,4 %.
+Des cellules de plusieurs fichiers contenaient un texte adresse a un assistant IA : il est ecarte, jamais execute, et compte dans les journaux.
+Fichier des localites RGPH 2019 (rgph2019_localites/) : population par commune (en-tetes 'COMMUNE: ... - Urbain/Rural' et localites) ; rattachement des communes au COD-AB ; poids de passage ancien -> nouveau decoupage = part des 6-11 ans. 3 cellules contenant une note adressee a un assistant IA ecartees.

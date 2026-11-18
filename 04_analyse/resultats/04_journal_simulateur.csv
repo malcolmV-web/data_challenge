@@ -1,0 +1,6 @@
+gravite;message
+INFO;scenario maintien : maitres recus = maitres cedes, aucun solde negatif : oui
+INFO;scenario reprise : maitres recus = maitres cedes, aucun solde negatif : oui
+INFO;scenario universel : maitres recus = maitres cedes, aucun solde negatif : oui
+INFO;methode de redeploiement : optimisation lineaire (transport, HiGHS) : maximum de maitres redeployes, puis priorite
+INFO;"leviers : 50 % de l'excedent mobilisable vers les provinces voisines ; double flux sur 0 % des salles publiques des provinces en deficit"

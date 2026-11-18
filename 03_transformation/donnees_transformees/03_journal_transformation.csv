@@ -1,0 +1,10 @@
+gravite;message
+INFO;"convention k=0 ; annee de base 2024-2025 ; horizon 2029-2030 ; scenario de population : moyen (INSD)"
+INFO;"TBS implicite 2024-2025 (eleves CNS 530 / pop 6-11 ans) : min 0.09, mediane 0.79, max 1.15 ; 0 provinces > 1,20"
+INFO;PDI : situation du 2023-03-31
+INFO;"ESU 2026-02 : EDI du primaire pour 100 eleves : mediane 7.7, max 88.2 ; 45 provinces avec EDI"
+INFO;"provinces dont la classe moyenne depasse 75 eleves : 1 ; au-dessus de la norme : 24"
+INFO;norme eleves par classe : 50.0 (parametre)
+INFO;norme eleves par maitre (public) : 50.0 (parametre)
+INFO;"retro-prediction du TBS 2024 (ajuste sur 2020-2023) : erreur absolue moyenne ; tendance 0.137, maintien 0.043 (points de TBS en proportion)"
+INFO;scenario le plus fiable en retro-prediction : maintien

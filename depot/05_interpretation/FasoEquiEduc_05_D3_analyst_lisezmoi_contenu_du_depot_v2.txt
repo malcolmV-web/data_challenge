@@ -1,0 +1,25 @@
+DEPOT 05 - 05_interpretation - D3 (v2)
+
+Etape 05 : interpretation. Script : scripts/05_interpretation_tableau_de_bord.py (modele HTML dans le meme dossier) -> tableau_de_bord/index.html.
+La page n'utilise que des donnees agregees par province.
+
+CONTENU DU DEPOT
+Le depot de cette etape se compose de trois fichiers : les donnees produites, le code, et ce LISEZ-MOI.
+
+FasoEquiEduc_05_D3_analyst_donnees_tableau_de_bord_v2.zip  (1 fichiers)
+   - 05_interpretation/tableau_de_bord/index.html  (918.2 Ko)
+
+FasoEquiEduc_05_D3_analyst_code_script_tableau_de_bord_v2.zip  (10 fichiers)
+   - 05_interpretation/scripts/05_interpretation_modele_tableau_de_bord.html  (45.0 Ko)
+   - 05_interpretation/scripts/05_interpretation_tableau_de_bord.py  (5.3 Ko)
+   - executer.py  (11.2 Ko)
+   - depot.py  (7.9 Ko)
+   - requirements.txt  (0.2 Ko)
+   - LISEZ-MOI.txt  (3.8 Ko)
+   - README.md  (1.6 Ko)
+   - communs/outils_communs.py  (13.3 Ko)
+   - parametres/parametres_modele.json  (1.6 Ko)
+   - parametres/chemins_sources_modele.json  (0.7 Ko)
+
+RELANCER
+Dans le projet : python python.py --seulement 05 (voir LISEZ-MOI.txt du code pour l'installation et chemins_sources.json).

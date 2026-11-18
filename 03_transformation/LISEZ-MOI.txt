@@ -1,0 +1,3 @@
+Etape 03 : transformation. Script : scripts/03_transformation_base_province.py -> donnees_transformees/03_base_province.csv (une ligne par province).
+Convention : l'annee scolaire N/N+1 est rapprochee de la population de l'annee civile N (k = 0), ce qui reproduit le taux brut de scolarisation publie pour 2024-2025.
+03_validation_tbs.csv : retro-prediction de 2024 (maintien du dernier taux contre tendance lineaire 2020-2023).

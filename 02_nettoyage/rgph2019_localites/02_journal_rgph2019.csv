@@ -1,0 +1,57 @@
+gravite;message
+INFO;rattachement approche : OURY -> Ouri
+INFO;rattachement approche : BOMBOROKUY -> Bomborokui
+INFO;rattachement approche : DOKUY -> Dokui
+INFO;rattachement approche : BONDOKUY -> Bondokui
+INFO;rattachement approche : TANGHIN DASSOURI -> Tanguen-Dassouri
+INFO;rattachement approche : BITTOU -> Bitou
+INFO;rattachement approche : COMIN YANGA -> Komin-Yanga
+INFO;rattachement approche : SANGA -> Sangha
+INFO;rattachement approche : GOUNGHIN -> Gounguen
+INFO;rattachement approche : SABCE -> Sabse
+INFO;rattachement approche : ZIMTENGA -> Zimtanga
+INFO;rattachement approche : BOUSSOUMA CN -> Boussouma
+INFO;rattachement approche : KOKOLOKO -> Kokologo
+INFO;rattachement approche : SOAW -> Soa
+INFO;rattachement approche : THYOU -> Thiou
+INFO;rattachement approche : CASSOU -> Kassou
+INFO;rattachement approche : IPELCE -> Ipelse
+INFO;rattachement approche : COALLA -> Koala
+INFO;rattachement approche : FADA N GOURMA -> Fada-Ngourma
+INFO;rattachement approche : MATIACOALI -> Matiakoali
+INFO;rattachement approche : BARTIBOUGOU -> Bartiebougou
+INFO;rattachement approche : LOGOBOU -> Logbou
+INFO;rattachement approche : NAMOUNOU -> Namouno
+INFO;rattachement approche : KARANKASSO SAMBLA -> Karangasso-Sambla
+INFO;rattachement approche : KARANKASSO VIGUE -> Karangasso-Vigue
+INFO;rattachement approche : KOURIGNON -> Kourinion
+INFO;rattachement approche : MOROLABA -> Morlaba
+INFO;rattachement approche : N DOROLA -> Ndorola
+INFO;rattachement approche : SAMOGOHIRI -> Samogoyiri
+INFO;rattachement approche : BEKUY -> Bekui
+INFO;rattachement approche : BONY -> Boni
+INFO;rattachement approche : BANH -> Bahn
+INFO;rattachement approche : ARBOLE -> Arbolle
+INFO;rattachement approche : BOKIN -> Boken
+INFO;rattachement approche : LA TODIN -> La-Toden
+INFO;rattachement approche : SEGUENEGA -> Senguenega
+INFO;rattachement approche : GOURCY -> Goursi
+INFO;rattachement approche : BOUDRY -> Boudri
+INFO;rattachement approche : MEGUET -> Megue
+INFO;rattachement approche : SALOGO -> Saolgo
+INFO;rattachement approche : TOEGHIN -> Toeguen
+INFO;rattachement approche : ABSOUYA -> Ambsouya
+INFO;rattachement approche : DAPELOGO -> Dapeolgo
+INFO;rattachement approche : BONDIGUI -> Gbondjigui
+INFO;rattachement approche : DISSIN -> Dissihn
+INFO;rattachement approche : BOUSSOUKOULA -> Boussou-Koula
+ATTENTION;4 commune(s) COD-AB sans population RGPH : ['Bobo-Dioulasso', 'Gao', 'Kindi', 'Ouagadougou']
+INFO;"62 ligne(s) ecartee(s), pages [12, 13, 15] ; exemples : ['Burkina Faso', 'Rural', 'Urbain', 'BOUCLE DU MOUHOUN', 'Rural', 'Urbain', 'CASCADES', 'Rural']"
+ATTENTION;"page 280, KAIN / THOU : H 89.0 + F 94.0 ; ensemble 184.0 ; somme des ages 187.0"
+ATTENTION;"page 280, KAIN / TIENDRE : H 143.0 + F 146.0 ; ensemble 289.0 ; somme des ages 292.0"
+ATTENTION;"page 327, GOROM GOROM / ESSAKANE SITE : H 905.0 + F 672.0 ; ensemble 1577.0 ; somme des ages 1580.0"
+ATTENTION;"page 329, GOROM GOROM / TOUKA AGUILLANABE : H 19.0 + F 14.0 ; ensemble 33.0 ; somme des ages 37.0"
+ATTENTION;"page 331, TIN AKOFF / FADAR FADAR NORD : H 14.0 + F 14.0 ; ensemble 28.0 ; somme des ages 31.0"
+ATTENTION;"page 341, ARBINDA / LIKI : H 1216.0 + F 1347.0 ; ensemble 2567.0 ; somme des ages 2567.0"
+ATTENTION;"page 341, ARBINDA / OUILAO : H 103.0 + F 106.0 ; ensemble 213.0 ; somme des ages 213.0"
+ATTENTION;"page 342, ARBINDA / SIKIRE : H 984.0 + F 1111.0 ; ensemble 2077.0 ; somme des ages 2077.0"

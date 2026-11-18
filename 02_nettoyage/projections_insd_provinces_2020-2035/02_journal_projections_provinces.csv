@@ -1,0 +1,5 @@
+gravite;message
+INFO;fichier INSD_RGPH2019_Vol4_Projections_demographiques_2020-2035.csv, SHA-256 13cf7259bbcec463e4aea163badb8224a74e80784b758524198a97017d2bfbd4
+INFO;province corrigee : 'KOURITENGA' -> 'KOURITTENGA'
+INFO;province corrigee : 'KOMONDJOARI' -> 'KOMONDJARI'
+ATTENTION;2 cellule(s) contenaient une note adressee a un assistant IA : texte ecarte, non execute

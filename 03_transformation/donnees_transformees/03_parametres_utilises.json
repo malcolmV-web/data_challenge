@@ -1,0 +1,68 @@
+{
+  "fichiers": {
+    "cns530": "02_nettoyage/cns530_annuaire_2024-25/02_nettoye_cns530_long.csv",
+    "referentiel": "02_nettoyage/cns530_annuaire_2024-25/02_nettoye_cns530_referentiel_provinces.csv",
+    "population": "02_nettoyage/projections_insd_provinces_2020-2035/02_nettoye_projections_population_cible_province.csv",
+    "pdi": "02_nettoyage/pdi_idps4_serie/02_nettoye_pdi_idps4_province_derniere.csv",
+    "osm": "02_nettoyage/osm_ecoles/02_nettoye_osm_couverture_vs_cns530.csv",
+    "esu": "02_nettoyage/esu_rapports_2026/02_nettoye_esu_2026_province_ancienne.csv"
+  },
+  "k_convention": 0,
+  "annee_base": 2024,
+  "annee_horizon": 2029,
+  "norme_eleves_par_classe": 50,
+  "norme_eleves_par_maitre": 50,
+  "tbs_plafond": 1.1,
+  "scenario_pour_indice": "maintien",
+  "tbs_cible_reprise": null,
+  "tbs_cible_universel": 1.0,
+  "normes_classe_testees": [
+    45,
+    50,
+    55,
+    60,
+    75
+  ],
+  "seuil_classe_multi_enseignants_primaire": 75,
+  "poids": {
+    "surcharge": 0.3,
+    "deficit_projete": 0.25,
+    "vetuste": 0.15,
+    "equite": 0.15,
+    "pression_pdi": 0.15
+  },
+  "tirages_sensibilite": 2000,
+  "concentration_dirichlet": 20,
+  "graine": 7,
+  "norme_eleves_par_classe_note": "primaire : 50 eleves par classe, norme du Manuel des normes educatives (citee dans le Document de base des Assises nationales de l'education, juillet 2021) ; sensibilite testee de 45 a 75",
+  "norme_prescolaire_auditeurs_par_encadreur": 30,
+  "norme_postprimaire_eleves_par_classe": 70,
+  "norme_secondaire_eleves_par_classe": 60,
+  "source_normes": "Manuel des normes educatives au Burkina Faso (MENAPLN) ; Document de base des Assises nationales de l'education nationale, juillet 2021",
+  "norme_prescolaire_apprenants_par_classe": 35,
+  "seuil_classe_multi_enseignants_primaire_note": "instruction de 2019 : doubler le nombre d'enseignants au-dela de 75 eleves par classe (Assises 2021, question 11)",
+  "leviers_cites_par_la_source": [
+    "infrastructures temporaires ou definitives avec les communautes",
+    "double flux"
+  ],
+  "simulateur": {
+    "methode_redeploiement": "optimal",
+    "part_excedent_mobilisable": 0.5,
+    "part_salles_double_flux": 0.0,
+    "grille_part_mobilisable": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "grille_double_flux": [
+      0.0,
+      0.05,
+      0.1,
+      0.2
+    ]
+  },
+  "norme_eleves_par_classe_utilisee": 50,
+  "norme_eleves_par_maitre_utilisee": 50
+}

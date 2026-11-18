@@ -1,0 +1,33 @@
+section;gravite;message
+;INFO;fichier CNS530_Annuaire_statistique_de_lenseignement_primaire_2024_2025.csv, SHA-256 d63bc85ca7706c5de42724aca2b2a042abc35dbf773550a533a24cc4c287e622
+I.1;INFO;bloc de total supplementaire apres SUD OUEST (page 16) traite comme total NATIONAL
+V.4;ATTENTION;ligne a 8 cellules ignoree page 281 ligne 13 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 281 ligne 14 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 284 ligne 13 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 284 ligne 14 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 287 ligne 13 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 287 ligne 14 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 290 ligne 13 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 290 ligne 14 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 293 ligne 13 : nombre de colonnes inattendu
+V.4;ATTENTION;ligne a 8 cellules ignoree page 293 ligne 14 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 8 cellules ignoree page 328 ligne 18 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 8 cellules ignoree page 328 ligne 19 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 8 cellules ignoree page 331 ligne 18 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 8 cellules ignoree page 331 ligne 19 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 8 cellules ignoree page 334 ligne 18 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 8 cellules ignoree page 334 ligne 19 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 9 cellules ignoree page 337 ligne 30 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 9 cellules ignoree page 337 ligne 31 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 9 cellules ignoree page 340 ligne 30 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 9 cellules ignoree page 340 ligne 31 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 9 cellules ignoree page 343 ligne 30 : nombre de colonnes inattendu
+VI.4;ATTENTION;ligne a 9 cellules ignoree page 343 ligne 31 : nombre de colonnes inattendu
+VI.4;INFO;152 ligne(s) de sous-sections non extraites (financement) : a traiter apres inspection
+;INFO;province corrigee : 'KOMANDJARI' -> 'KOMONDJARI'
+;ATTENTION;3 cellule(s) contenaient une note adressee a un assistant IA : texte ecarte, non execute
+I.1;INFO;1062 valeurs, 45 provinces, pages 12-16
+V.2;INFO;1062 valeurs, 45 provinces, pages 263-268
+V.4;INFO;2832 valeurs, 45 provinces, pages 279-292
+VI.4;INFO;3621 valeurs, 45 provinces, pages 326-343
+VIII.1;INFO;1350 valeurs, 45 provinces, pages 380-382

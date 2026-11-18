@@ -1,0 +1,6 @@
+gravite;message
+INFO;"11974 lignes ; 11970 structures retenues (dont 6077 sans type) ; 4 lignes exclues (amenity : {'drinking_water': 4})"
+ATTENTION;4 structures dont adm2_pcode est absent de la table COD-AB : {'': 4}
+INFO;"geometries : {'Polygon': 7516, 'Point': 4453, 'MultiPolygon': 1} ; communes avec au moins une structure : 295 sur 351"
+INFO;"couverture OSM 'school' / ecoles CNS 530 par province : min 0.03, mediane 0.25, max 5.24 ; 22 provinces sous 0,25"
+INFO;"couverture OSM toutes structures (avec sans_type) / ecoles CNS 530 : min 0.05, mediane 0.50, max 10.61 ; 9 provinces sous 0,25"

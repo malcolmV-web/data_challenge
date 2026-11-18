@@ -1,0 +1,8 @@
+Etape 01 : collecte. Les donnees brutes sont identifiees par leur empreinte SHA-256.
+references/01_references_sources.csv            sources retenues, ecartees et en perspective
+references/01_empreintes_sources.csv           nom, taille et SHA-256 de chaque fichier source utilise
+references/01_versions_utilisees.txt           versions de Python et des paquets
+scripts/                                       inspection de la STRUCTURE des fichiers.
+
+Donnees ajoutees hors Data Pack : colonne 'origine' de references/01_references_sources.csv (S12 a S14).
+Il s'agit des Limites administratives COD-AB niveaux 0 a 3, GeoJSON (provinces, regions, lignes de frontiere adminlines) en format GeoJSON du nouveau decoupage.

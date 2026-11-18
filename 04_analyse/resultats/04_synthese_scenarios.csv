@@ -1,0 +1,4 @@
+scenario;deficit_maitres_initial;excedent_maitres_theorique;methode_redeploiement;maitres_redeployes;maitres_redeployes_methode_gloutonne;maitres_redeployes_maximum_si_tout_mobilisable;recrutements_necessaires;deficit_salles_initial;salles_gagnees_double_flux;salles_a_construire;salles_a_remplacer;provinces_beneficiaires;provinces_cedantes
+maintien;8714;893;optimal;384;384;767;8330;7454;0;7454;5741;8;11
+reprise;19432;830;optimal;353;353;712;19079;19921;0;19921;5741;8;10
+universel;27568;309;optimal;153;153;309;27415;29193;0;29193;5741;6;6

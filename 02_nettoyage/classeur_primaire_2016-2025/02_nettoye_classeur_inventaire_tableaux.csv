@@ -1,0 +1,22 @@
+feuille;cycle;tableau;indicateur;titre;ligne_titre;lignes_donnees;colonnes_valeurs;lignes_entete;dimensions_lignes
+PRESCOLAIRE;prescolaire;1;EFFECTIFS;Tableau 1 : Évolution des effectifs du préscolaire de 2015/2016 à 2024/2025 par sexe et par région;1;14;30;2;region
+PRESCOLAIRE;prescolaire;2;EFFECTIFS;Tableau 2: Évolution des effectifs du préscolaire de 2015/2016 à 2024/2025 par sexe et par statut;19;4;30;2;statut
+PRESCOLAIRE;prescolaire;3;EFFECTIFS;Tableau 3: Évolution des effectifs du préscolaire de 2015/2016 à 2024/2025 par sexe et par milieu;27;4;24;2;milieu
+PRESCOLAIRE;prescolaire;4;EFFECTIFS;Tableau 4: Évolution des effectifs du préscolaire de 2015/2016 à 2024/2025 par niveau, sexe et par statut;36;13;30;2;statut,niveau_etudes
+PRESCOLAIRE;prescolaire;5;TBS;Tableau 5: Évolution du TBS au préscolaire de 2015/2016 à 2024/2025 par sexe et par région;54;14;30;2;region
+PRESCOLAIRE;prescolaire;6;IPS_TBS;Tableau 6: Évolution de l’IPS du TBS au préscolaire de 2015/2016 à 2024/2025 par région;73;14;10;1;region
+PRESCOLAIRE;prescolaire;7;NB_STRUCTURES;Tableau 7 : Évolution du nombre de structures éducatives du préscolaire de 2015/2016 à 2024/2025 par statut et par région;91;53;10;1;region,statut
+PRESCOLAIRE;prescolaire;8;SALLES_CLASSE;Tableau 8 : Évolution du nombre de salles de classes du préscolaire de 2015/2016 à 2024/2025 par statut et par région;148;53;10;1;region,statut
+Feuil1;primaire;1;EFFECTIFS;Tableau 1 : Évolution des effectifs du primaire de 2015/2016 à 2024/2025 par sexe et par région;1;42;10;1;region,sexe
+Feuil2;primaire;2;EFFECTIFS;Tableau 2: Évolution des effectifs du primaire de 2015/2016 à 2024/2025 par sexe et par statut;1;9;10;1;statut,sexe
+Feuil3;primaire;3;EFFECTIFS;Tableau 3: Évolution des effectifs du primaire de 2015/2016 à 2024/2025 par sexe et par milieu;1;9;10;1;milieu,sexe
+Feuil4;primaire;4;EFFECTIFS;Tableau 4: Évolution des effectifs du primaire de 2015/2016 à 2024/2025 par niveau, sexe et par statut;1;45;10;1;statut,niveau_etudes,sexe
+Feuil5;primaire;5;NOUVEAUX_INSCRITS_CP1;Tableau 5: Évolution des nouveaux inscrits au CP1 de 2015/2016 à 2024/2025 par sexe et par région;1;42;10;1;region,sexe
+Feuil6;primaire;6;TBA;Tableau 6: Évolution du TBA au primaire de 2015/2016 à 2024/2025 par sexe et par région;1;14;30;2;region
+Feuil7;primaire;7;TBS;Tableau 7: Évolution du TBS au primaire de 2015/2016 à 2024/2025 par sexe et par région;1;14;30;2;region
+Feuil8;primaire;8;TAUX_ACHEVEMENT;Tableau 8: Évolution du Taux d’Achèvement au primaire de 2015/2016 à 2024/2025 par sexe et par région;1;14;30;2;region
+Feuil9;primaire;9;TAUX_REUSSITE_CEP;Tableau 9: Évolution du taux de réussite au CEP de 2015 à 2025 par sexe et par région;1;42;10;1;region,sexe
+Feuil10;primaire;10;IPS_TBA;Tableau 10: Évolution de l’IPS du TBA au primaire de 2015/2016 à 2024/2025 par région;1;14;10;1;region
+Feuil11;primaire;11;IPS_TBS;Tableau 11: Évolution de l’IPS du TBS au primaire de 2015/2016 à 2024/2025 par région;1;14;10;1;region
+Feuil12;primaire;12;IPS_TAP;Tableau 12: Évolution de l’IPS du TAP de 2015/2016 à 2024/2025 par région;1;14;10;1;region
+Feuil13;primaire;13;NB_ECOLES;Tableau 13 : Évolution du nombre d’écoles primaires de 2015/2016 à 2024/2025 par statut et par région;1;42;10;1;region,statut

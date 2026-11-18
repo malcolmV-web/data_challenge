@@ -1,0 +1,6 @@
+Etape 04 : analyse. Scripts (dans l'ordre) : 04_analyse_besoins_indice_priorite.py puis 04_analyse_simulateur_redeploiement.py ; sorties prefixees 04_ dans resultats/.
+Redeploiement des maitres : optimisation lineaire (probleme de transport, scipy / HiGHS) qui maximise le nombre de maitres redeployes vers les provinces voisines, puis sert d'abord les plus prioritaires ; la methode gloutonne est conservee pour comparaison (04_synthese_scenarios.csv).
+Leviers (parametres/parametres_modele.json, section simulateur) : part de l'excedent mobilisable ; double flux a 0 par defaut (mesure transitoire, hors reponse de reference).
+Perimetres de redeploiement (04_flux_par_perimetre.csv, 04_synthese_perimetres.csv) : dans la region, provinces voisines, national ; ils alimentent le simulateur du tableau de bord.
+Deux regles d'affectation pour chaque perimetre (colonne regle) : priorite d'abord (les provinces les plus en tension, meme lointaines) ou proximite d'abord (les provinces en deficit les plus proches). Meme nombre de maitres deplaces ; distances a vol d'oiseau entre centres des provinces (colonne distance_km).
+Nouveau decoupage (04_besoins_nouveau_decoupage_*.csv) : besoins des 45 provinces anciennes repartis sur les 47 provinces et 17 regions nouvelles au prorata des 6-11 ans du RGPH 2019 (estimation).

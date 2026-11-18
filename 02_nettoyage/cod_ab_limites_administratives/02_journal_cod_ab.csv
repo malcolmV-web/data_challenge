@@ -1,0 +1,8 @@
+gravite;message
+INFO;admin1 : 17, admin2 : 47, admin3 : 351 lignes
+INFO;commune -> province ancienne : longueur de prefixe retenue 6 (part de correspondance 100.0 %)
+INFO;commune -> region ancienne : longueur de prefixe retenue 4 (part de correspondance 100.0 %)
+INFO;"43 provinces anciennes sur 45 tiennent entierement dans une seule province nouvelle ; 2 sont reparties sur plusieurs : ['SOUM', 'TAPOA']"
+INFO;0 provinces nouvelles regroupent plusieurs provinces anciennes (ou parties de plusieurs)
+INFO;regions anciennes sur plusieurs regions nouvelles : 3 sur 13
+ATTENTION;9 cellule(s) contenaient une note adressee a un assistant IA : texte ecarte, non execute

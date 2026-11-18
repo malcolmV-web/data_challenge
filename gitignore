@@ -1,0 +1,20 @@
+# Environnement et caches
+.venv/
+__pycache__/
+*.pyc
+
+# Fichiers de verrouillage LibreOffice / Excel et fichiers temporaires (contiennent le nom d'utilisateur)
+.~lock.*#
+~$*
+*.tmp
+
+# Chemins propres a chaque machine (contient des chemins locaux)
+parametres/chemins_sources.json
+
+# Donnees : les sources du Data Pack ne sont pas redistribuees ; les sorties se regenerent avec executer.py
+DataPack*/
+01_collecte/inspections/
+05_interpretation/tableau_de_bord/
+
+# Paquets de depot
+depot/

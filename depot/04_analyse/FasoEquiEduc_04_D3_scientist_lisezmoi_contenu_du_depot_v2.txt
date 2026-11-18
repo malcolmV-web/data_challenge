@@ -1,0 +1,44 @@
+DEPOT 04 - 04_analyse - D3 (v2)
+
+Etape 04 : analyse. Scripts (dans l'ordre) : 04_analyse_besoins_indice_priorite.py puis 04_analyse_simulateur_redeploiement.py ; sorties prefixees 04_ dans resultats/.
+Rédeploiement des maitres : optimisation lineaire (probleme de transport, scipy / HiGHS) qui maximise le nombre de maitres redeployés vers les provinces voisines, puis sert d'abord les plus prioritaires ; la méthode gloutonne est conservée pour comparaison (04_synthese_scenarios.csv).
+Leviers (parametres/parametres_modele.json, section simulateur) : part de l'excédent mobilisable ; double flux a 0 par défaut (mesure transitoire, hors reponse de reference).
+Perimetres de redeploiement (04_flux_par_perimetre.csv, 04_synthese_perimetres.csv) : dans la region, provinces voisines, national ; ils alimentent le simulateur du tableau de bord.
+Deux regles d'affectation pour chaque perimetre (colonne regle) : priorite d'abord (les provinces les plus en tension, meme lointaines) ou proximite d'abord (les provinces en deficit les plus proches). Meme nombre de maitres deplaces ; distances raisonnqbles entre centres des provinces (colonne distance_km).
+Nouveau decoupage (04_besoins_nouveau_decoupage_*.csv) : besoins des 45 provinces anciennes repartis sur les 47 provinces et 17 regions nouvelles au prorata des 6-11 ans du RGPH 2019 (estimation).
+
+CONTENU DU DEPOT
+Le dépot de cette etape se compose de trois fichiers : les donneees produites, le code, et ce LISEZ-MOI.
+
+FasoEquiEduc_04_D3_scientist_donnees_besoins_indice_simulateur_v2.zip  (15 fichiers)
+   - 04_analyse/resultats/04_besoins_horizon.csv  (16.0 Ko)
+   - 04_analyse/resultats/04_besoins_nouveau_decoupage_provinces.csv  (14.9 Ko)
+   - 04_analyse/resultats/04_besoins_nouveau_decoupage_regions.csv  (4.8 Ko)
+   - 04_analyse/resultats/04_bilan_province.csv  (9.4 Ko)
+   - 04_analyse/resultats/04_flux_par_perimetre.csv  (39.0 Ko)
+   - 04_analyse/resultats/04_flux_redeploiement_maitres.csv  (0.8 Ko)
+   - 04_analyse/resultats/04_grille_leviers.csv  (2.1 Ko)
+   - 04_analyse/resultats/04_indice_priorite.csv  (8.5 Ko)
+   - 04_analyse/resultats/04_journal_analyse.csv  (1.4 Ko)
+   - 04_analyse/resultats/04_journal_simulateur.csv  (0.5 Ko)
+   - 04_analyse/resultats/04_passage_ancien_nouveau.csv  (1.5 Ko)
+   - 04_analyse/resultats/04_sensibilite_classement.csv  (1.4 Ko)
+   - 04_analyse/resultats/04_sensibilite_normes.csv  (0.4 Ko)
+   - 04_analyse/resultats/04_synthese_perimetres.csv  (5.1 Ko)
+   - 04_analyse/resultats/04_synthese_scenarios.csv  (0.5 Ko)
+
+FasoEquiEduc_04_D3_scientist_code_scripts_analyse_v2.zip  (11 fichiers)
+   - 04_analyse/scripts/04_analyse_besoins_indice_priorite.py  (10.9 Ko)
+   - 04_analyse/scripts/04_analyse_nouveau_decoupage.py  (4.3 Ko)
+   - 04_analyse/scripts/04_analyse_simulateur_redeploiement.py  (15.7 Ko)
+   - executer.py  (11.2 Ko)
+   - depot.py  (7.9 Ko)
+   - requirements.txt  (0.2 Ko)
+   - LISEZ-MOI.txt  (3.8 Ko)
+   - README.md  (1.6 Ko)
+   - communs/outils_communs.py  (13.3 Ko)
+   - parametres/parametres_modele.json  (1.6 Ko)
+   - parametres/chemins_sources_modele.json  (0.7 Ko)
+
+RELANCER
+Dans le projet : python executer.py --seulement 04 (voir LISEZ-MOI.txt du code pour l'installation et chemins_sources.json).

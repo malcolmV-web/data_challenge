@@ -1,0 +1,40 @@
+PROJET - Data Challenge Burkina, edition Education 2026, Defi 3 (repartition des infrastructures et du personnel enseignant)
+Execution 100 % locale. Python 3.14.4, pandas 3.1.1 (voir requirements.txt ; versions reelles ecrites dans 01_collecte/references/01_versions_utilisees.txt).
+
+ORGANISATION (un dossier par etape ; python.py cree les dossiers manquants)
+  01_collecte/          scripts d'inspection, references/ (01_references_sources.csv, 01_empreintes_sources.csv SHA-256, versions), inspections/
+  02_nettoyage/         scripts/ + un dossier par source nettoyee : classeur_primaire_2016-2025, cns530_annuaire_2024-25,
+                        projections_insd_provinces_2020-2035, projections_insd_nationales, recoupements_classeur_cns530_projections,
+                        cod_ab_limites_administratives, carte_provinces_voisins, esu_rapports_2026, osm_ecoles, pdi_conasur_2022-12, pdi_idps4_serie
+  03_transformation/    scripts/ + donnees_transformees/ : base par province (indicateurs, population, TBS, pression d'accueil), validation du TBS
+  04_analyse/           scripts/ + resultats/ : besoins a l'horizon (3 scenarios), indice de priorite, sensibilites, simulateur de redeploiement et double flux
+  05_interpretation/    scripts/ + tableau_de_bord/index.html : page autonome (donnees agregees incluses, aucune ressource externe), publiable telle quelle
+  communs/              outils_communs.py (fonctions partagees, dont l'ecartement des notes adressees a un assistant IA)
+  parametres/           chemins_sources.json (a remplir), parametres_modele.json (k, normes, poids, graine)
+  tests/                generateur de rapports ESU fictifs pour verifier la chaine sans donnees reelles
+
+CONVENTION DE NOMS
+  scripts  : <etape>_<theme>_<objet>.py            ex. 02_nettoyage_esu_2026.py
+  donnees  : 02_nettoye_<source>_<contenu>.csv      ex. 02_nettoye_cns530_long.csv
+  controles: 02_controles_<source>.csv ; journaux : 02_journal_<source>.csv ; etapes 03 et 04 : 03_<contenu>.csv, 04_<contenu>.csv
+
+LANCEMENT
+  1. pip install -r requirements.txt
+  2. renseigner parametres/chemins_sources.json (chemin de chaque source ; "" = ignore). Les donnees brutes ne sont pas redeposees.
+  3. python python.py            (options : --seulement 01|02|03|04|05, --sans-transformation, --arreter-si-erreur)
+  Chaque script peut aussi etre lance seul : python 02_nettoyage/scripts/02_nettoyage_esu_2026.py (sans argument : affiche l'aide).
+  Scripts d'inspection (01_collecte/scripts) : a lancer depuis 01_collecte/inspections ; ils n'ecrivent que des structures, jamais de valeurs.
+
+VERIFIER SANS DONNEES REELLES
+  python tests/tests_fabriquer_base_fictive.py <dossier_vide>  puis lancer les scripts 03 et 04 depuis ce dossier (10 provinces fictives)
+  python tests/tests_fabriquer_esu_fictif.py <dossier>  puis pointer esu_* vers les faux fichiers : les controles doivent signaler l'erreur volontaire.
+
+REPRODUCTIBILITE
+  - depuis les sources officielles : empreintes SHA-256 de 01_collecte/references/01_empreintes_sources.csv a comparer aux fichiers d'origine
+  - depuis les donnees nettoyees deposees : etapes 03 a 05 (la graine de la sensibilite est fixee dans parametres_modele.json / script 03)
+  - alias de noms (renommage de province) : parametres/chemins_sources.json, ex. KOOSIN (ESU) = KOSSIN (COD-AB) = KOSSI (CNS 530)
+  - notes adressees a un assistant IA trouvees dans les donnees : ecartees, non executees, comptees dans les journaux 02_journal_*.csv
+
+DEPOT
+  python depot.py --equipe <nom_equipe> --interdits "<noms de personnes>,<identifiant de compte ou de session>" --etapes 01,02,03,04
+  -> depot/<etape>/ : au plus 20 fichiers par etape, noms prefixes, archives de scripts ; controle d'anonymat du contenu ; MANIFESTE_depot.csv (trace, a ne pas deposer).

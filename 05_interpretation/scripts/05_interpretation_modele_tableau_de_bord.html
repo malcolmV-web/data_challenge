@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Salles et enseignants du primaire à l'horizon 2030 – Burkina Faso</title>
+<style>
+:root{color-scheme:light;--fond:#f4f3f0;--surface:#fcfcfb;--surface2:#ecebe7;--trait:#d9d7d0;--texte:#0b0b0b;--texte2:#52514e;--texte3:#7a7972;
+--c1:#cde2fb;--c2:#86b6ef;--c3:#3987e5;--c4:#1c5cab;--c5:#0d366b;--vide:#e4e3de;--barre:#2a78d6;--flux:#eb6834;--alerte:#b3261e;--ok:#1a7f4b}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--fond:#121211;--surface:#1a1a19;--surface2:#262624;--trait:#3a3a37;--texte:#f0efec;--texte2:#c3c2b7;--texte3:#8f8e85;
+--c1:#184f95;--c2:#256abf;--c3:#3987e5;--c4:#86b6ef;--c5:#cde2fb;--vide:#2c2c2a;--barre:#3987e5;--flux:#d95926;--alerte:#f2b8b5;--ok:#7fd3a4}}
+*{box-sizing:border-box}
+html{overflow-x:hidden}body{margin:0;overflow-wrap:anywhere;background:var(--fond);color:var(--texte);font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:1240px;margin:0 auto;padding:20px 16px 48px}
+h1{font-size:1.5rem;margin:0 0 4px;line-height:1.2}
+h2{font-size:1.05rem;margin:0 0 10px}h3{font-size:.92rem;margin:14px 0 6px}
+p{margin:0 0 8px}.sous{color:var(--texte2);max-width:75ch}
+.bloc{min-width:0;background:var(--surface);border:1px solid var(--trait);border-radius:10px;padding:16px}
+.filtres{display:flex;flex-wrap:wrap;gap:12px 20px;align-items:end;margin:14px 0}
+.filtres label,.champ label{font-size:.8rem;color:var(--texte2);display:block;margin-bottom:4px}
+.seg{display:inline-flex;flex-wrap:wrap;border:1px solid var(--trait);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{border:0;background:none;color:var(--texte);padding:8px 14px;font:inherit;cursor:pointer}
+.seg button[aria-pressed=true]{background:var(--texte);color:var(--surface)}
+nav.modules{display:flex;flex-wrap:wrap;gap:6px;border-bottom:2px solid var(--trait);margin:16px 0}
+nav.modules button{border:0;background:none;color:var(--texte2);padding:10px 14px;font:inherit;font-weight:600;cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-2px}
+nav.modules button[aria-selected=true]{color:var(--texte);border-bottom-color:var(--barre)}
+select,input[type=number],input[type=file]{font:inherit;padding:8px 10px;border-radius:8px;border:1px solid var(--trait);background:var(--surface);color:var(--texte);max-width:100%}
+input[type=range]{width:100%;accent-color:var(--barre)}
+button.act{font:inherit;padding:8px 14px;border-radius:8px;border:1px solid var(--trait);background:var(--surface2);color:var(--texte);cursor:pointer}
+button.act:hover{border-color:var(--texte2)}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:16px}
+.kpi{background:var(--surface);border:1px solid var(--trait);border-radius:10px;padding:12px 14px}
+.kpi .v{font-size:1.6rem;font-weight:650;font-variant-numeric:tabular-nums;line-height:1.15}
+.kpi .l{font-size:.8rem;color:var(--texte2)}.kpi .d{font-size:.75rem;color:var(--texte3)}
+.grille{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:16px;margin-bottom:16px}
+@media (max-width:900px){.grille{grid-template-columns:1fr}}
+.deux{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:16px;margin-bottom:16px}
+svg{display:block;width:100%;height:auto}
+.prov{stroke:var(--surface);stroke-width:1;cursor:pointer}
+.prov.hors{opacity:.25}
+.prov:hover,.prov.sel{stroke:var(--texte);stroke-width:2.2}
+.legende{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:.78rem;color:var(--texte2);margin-top:8px}
+.legende i{display:inline-block;width:14px;height:14px;border-radius:3px;margin-right:5px;vertical-align:-2px}
+.tablewrap{max-height:520px;overflow:auto;border:1px solid var(--trait);border-radius:8px}
+table{border-collapse:collapse;width:100%;font-size:.86rem;font-variant-numeric:tabular-nums}
+th,td{padding:6px 7px;text-align:right;border-bottom:1px solid var(--trait);white-space:nowrap}
+th.g,td.g{text-align:left}
+thead th{position:sticky;top:0;background:var(--surface2);font-weight:600}
+thead th[data-c]{cursor:pointer}
+tbody tr.clic{cursor:pointer}tbody tr.clic:hover,tbody tr.sel{background:var(--surface2)}
+.barres div.l{display:grid;grid-template-columns:minmax(90px,170px) minmax(0,1fr) 60px;gap:8px;align-items:center;font-size:.84rem;margin:5px 0}
+.barres .piste{background:var(--surface2);border-radius:4px;height:14px}
+.barres .b{background:var(--barre);height:14px;border-radius:0 4px 4px 0;min-width:1px}
+.barres .n{text-align:right;font-variant-numeric:tabular-nums}
+.fiche dl,.bilan dl{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,auto);gap:4px 12px;margin:8px 0;font-size:.88rem}
+.fiche dt,.bilan dt{color:var(--texte2)}.fiche dd,.bilan dd{margin:0;text-align:right;font-variant-numeric:tabular-nums}
+.bilan dd.tot{font-weight:700;font-size:1.15rem}.bilan dt.tot{color:var(--texte);font-weight:600}
+#bulle{position:fixed;pointer-events:none;background:var(--texte);color:var(--surface);padding:6px 9px;border-radius:6px;font-size:.8rem;display:none;z-index:5;max-width:260px}
+.note{font-size:.82rem;color:var(--texte2)}.note li{margin-bottom:4px}
+.petit{font-size:.78rem;color:var(--texte3)}
+.champ{margin-bottom:14px}.champ output{float:right;font-weight:600;font-variant-numeric:tabular-nums}
+.etiq{display:inline-block;font-size:.72rem;padding:1px 7px;border-radius:10px;border:1px solid var(--trait);color:var(--texte2);margin-left:6px}
+.ctrl li{margin:4px 0;list-style:none}.ctrl ul{padding:0;margin:8px 0}
+.ctrl .ok::before{content:"✓ ";color:var(--ok);font-weight:700}.ctrl .ko::before{content:"! ";color:var(--alerte);font-weight:700}
+.saisie{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px}
+.saisie input{width:100%}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<main>
+<h1>Où construire des salles et affecter des enseignants d'ici 2030 ?</h1>
+<p class="sous">Enseignement primaire au Burkina Faso. Besoins à la rentrée <span id="hz"></span>, par région et par province, pour préparer les décisions d'une direction régionale. Les chiffres sont des propositions calculées à partir des statistiques officielles ; la décision reste celle des responsables.</p>
+
+<div class="filtres">
+  <div><label for="reg">Région</label><select id="reg"></select></div>
+  <div><label>Scénario de scolarisation</label><div class="seg" id="segsc"></div></div>
+</div>
+<p class="sous" id="descsc"></p>
+
+<nav class="modules" role="tablist" id="modules">
+  <button role="tab" data-m="m1">1. Diagnostic et carte</button>
+  <button role="tab" data-m="m2">2. Indice et priorités</button>
+  <button role="tab" data-m="m3">3. Simulateur de postes</button>
+  <button role="tab" data-m="m4">4. Import et contrôle</button>
+</nav>
+
+<!-- ===================== 1. DIAGNOSTIC ===================== -->
+<section id="m1">
+<div class="kpis" id="kpis"></div>
+<div class="filtres" style="margin-top:0">
+  <div><label>Maille</label><div class="seg" id="segniv"><button data-n="provinces">Provinces</button><button data-n="regions">Régions</button></div></div>
+  <div><label for="met">Indicateur de la carte</label>
+    <select id="met">
+      <option value="score">Indice de priorité (0 à 100)</option>
+      <option value="deficit_salles">Salles manquantes</option>
+      <option value="deficit_maitres">Maîtres publics manquants</option>
+      <option value="hors_ecole">Enfants de 6-11 ans hors école</option>
+      <option value="tbs">Taux brut de scolarisation (%)</option>
+      <option value="eleves_par_salle">Élèves par salle (2024-2025)</option>
+      <option value="eleves_par_maitre">Élèves par maître public (2024-2025)</option>
+    </select></div>
+</div>
+<div class="grille">
+  <div class="bloc"><h2 id="titrecarte"></h2><svg id="carte" viewBox="0 0 700 520" role="img" aria-label="Carte des provinces"></svg><div class="legende" id="legende"></div>
+    <p class="petit" style="margin-top:8px">Cliquez sur une province pour sa fiche. Les données s'arrêtent à la province : il n'y a pas de détail par commune.</p></div>
+  <div class="bloc"><h2 id="titretab"></h2><div class="tablewrap"><table id="tab"><thead></thead><tbody></tbody></table></div>
+    <p class="petit" style="margin-top:8px" id="notepart"></p><p class="petit" style="margin-top:8px">Cliquez sur un en-tête pour trier. En maille « Régions », cliquez sur une ligne pour ouvrir la région.</p></div>
+</div>
+<div class="deux">
+  <div class="bloc fiche" id="fiche"></div>
+  <div class="bloc"><h2>Salles manquantes selon la norme d'élèves par classe</h2><div class="barres" id="normes"></div>
+    <p class="petit">La norme officielle au primaire est de 50 élèves par classe. 75 est le seuil au-delà duquel deux enseignants sont affectés à une classe (instruction de 2019).</p></div>
+</div>
+</section>
+
+<!-- ===================== 2. INDICE ===================== -->
+<section id="m2" hidden>
+<div class="grille">
+  <div class="bloc"><h2>Pondération des cinq piliers</h2>
+    <p class="petit">Déplacez les curseurs : l'indice et le classement sont recalculés aussitôt. Les poids sont ramenés à un total de 100 %.</p>
+    <div id="poids"></div>
+    <button class="act" id="raz">Revenir aux poids de référence</button></div>
+  <div class="bloc"><h2 id="titrepil"></h2><div class="barres" id="piliers"></div><p class="petit" id="notepiliers"></p></div>
+</div>
+<div class="bloc"><h2 id="titrecl"></h2>
+  <div class="tablewrap"><table id="tabind"><thead></thead><tbody></tbody></table></div>
+  <p style="margin-top:10px"><button class="act" id="expcl">Exporter le classement (CSV)</button></p>
+  <p class="petit">Le rang est national, pour que les régions restent comparables. « Rang de référence » : rang avec les poids de départ. « Stabilité » : part des 2 000 jeux de poids tirés au hasard où la province reste dans les dix premières.</p></div>
+</section>
+
+<!-- ===================== 3. SIMULATEUR ===================== -->
+<section id="m3" hidden>
+<div class="grille">
+  <div class="bloc"><h2>Leviers</h2>
+    <div class="champ"><label>Périmètre du redéploiement des maîtres</label><div class="seg" id="segper"></div><p class="petit" id="descper" style="margin-top:6px"></p></div>
+    <div class="champ"><label>Règle d'affectation</label><div class="seg" id="segregle"></div><p class="petit" id="descregle" style="margin-top:6px"></p></div>
+    <div class="champ"><label for="part">Part de l'excédent de maîtres que l'on accepte de déplacer <output id="opart"></output></label><input type="range" id="part" min="0" max="4" step="1"></div>
+    <div class="champ"><label for="df">Salles publiques en double flux <span class="etiq">mesure transitoire</span> <output id="odf"></output></label><input type="range" id="df" min="0" max="20" step="5" value="0">
+      <p class="petit">À 0 % par défaut. Le double flux est un palliatif, à réserver aux localités où l'on ne peut pas construire à court terme. Il demande aussi des maîtres pour la seconde rotation, ce que ce calcul ne compte pas.</p></div>
+  </div>
+  <div class="bloc bilan"><h2 id="titrebilan"></h2><div id="bilan"></div></div>
+</div>
+<div class="grille">
+  <div class="bloc"><h2>Mouvements proposés</h2><svg id="carte2" viewBox="0 0 700 520" role="img" aria-label="Carte des mouvements de maîtres"></svg>
+    <div class="legende"><span><i style="background:var(--c2)"></i>province en déficit de maîtres</span><span><i style="background:var(--c4)"></i>province en excédent</span><span><i style="background:var(--vide)"></i>à l'équilibre</span></div>
+    <p class="petit" style="margin-top:8px">Traits orange : maîtres déplacés d'une province en excédent vers une province en déficit ; le point marque l'arrivée, l'épaisseur l'effectif.</p></div>
+  <div class="bloc"><h2>Excédent de maîtres par province</h2><div class="tablewrap" style="max-height:420px"><table id="tabexc"><thead></thead><tbody></tbody></table></div>
+    <p class="petit" style="margin-top:8px">L'excédent est théorique : écart à la norme de 50 élèves par maître, sans les contraintes locales (petites écoles, sécurité). « Reste à décider » : ce que le calcul ne déplace pas avec les réglages choisis et qui reste à la main des responsables.</p></div>
+</div>
+<div class="bloc"><h2 id="titreplan"></h2>
+  <div class="tablewrap" style="max-height:420px"><table id="tabplan"><thead></thead><tbody></tbody></table></div>
+  <p style="margin-top:10px"><button class="act" id="expplan">Exporter le plan (CSV)</button></p>
+  <p class="petit">Répartition obtenue par optimisation linéaire : elle déplace le plus de maîtres possible dans le périmètre choisi, puis, à nombre égal, sert d'abord les provinces les plus prioritaires ou les plus proches selon la règle choisie. Les deux règles déplacent le même nombre de maîtres ; seules les destinations changent. Distances à vol d'oiseau entre les centres des provinces. Le calcul est fait en amont par le programme d'analyse ; cette page en affiche les résultats.</p></div>
+</section>
+
+<!-- ===================== 4. IMPORT ===================== -->
+<section id="m4" hidden>
+<div class="grille">
+  <div class="bloc"><h2>Contrôler un fichier d'effectifs</h2>
+    <p class="sous">Chargez un fichier CSV avec une ligne par province : <b>province ; eleves ; maitres_publics ; salles</b> (secteur public). Le fichier est lu dans votre navigateur ; rien n'est envoyé sur Internet.</p>
+    <p><button class="act" id="modele">Télécharger le fichier modèle</button></p>
+    <p><input type="file" id="fichier" accept=".csv,text/csv"></p>
+    <p class="petit">Le modèle contient les valeurs de 2024-2025 des provinces affichées : vous pouvez les corriger puis recharger le fichier. Le contrôle porte sur la situation actuelle ; les projections à 2030 restent celles du modèle.</p></div>
+  <div class="bloc ctrl"><h2>Rapport de contrôle</h2><div id="rapport"><p class="petit">Aucun fichier chargé.</p></div></div>
+</div>
+<div class="bloc" id="blocimp" hidden><h2>Indicateurs calculés à partir du fichier</h2>
+  <div class="tablewrap"><table id="tabimp"><thead></thead><tbody></tbody></table></div>
+  <p class="petit" style="margin-top:8px">Manques calculés avec la norme de 50 élèves par maître et par classe. « Écart » : différence entre les élèves du fichier et la valeur de référence 2024-2025.</p></div>
+<div class="bloc" style="margin-top:16px"><h2>Calcul rapide pour une école ou une zone</h2>
+  <div class="saisie">
+    <div><label for="s_e" class="petit">Élèves</label><input type="number" id="s_e" min="0" value="480"></div>
+    <div><label for="s_m" class="petit">Maîtres en poste</label><input type="number" id="s_m" min="0" value="6"></div>
+    <div><label for="s_s" class="petit">Salles utilisables</label><input type="number" id="s_s" min="0" value="6"></div>
+  </div>
+  <div class="fiche" id="saisie_res"></div></div>
+</section>
+
+<div class="bloc note" style="margin-top:16px">
+<h2>Lecture et limites</h2>
+<ul>
+<li><b>Scénarios.</b> Maintien : le taux de scolarisation de 2024-2025 est conservé. Reprise : chaque province atteint au moins le taux médian national. Universel : chaque province atteint au moins 100 %. Les deux derniers supposent que les écoles fermées peuvent rouvrir ou être relocalisées.</li>
+<li><b>Normes.</b> 50 élèves par classe et 50 élèves par maître au primaire (Manuel des normes éducatives). Le déficit en maîtres porte sur le secteur public.</li>
+<li><b>Maille et découpage.</b> Les effectifs et les projections ne sont publiés que sur l'ancien découpage : le calcul est fait sur ses 45 provinces. Les régions du nouveau découpage (17 régions) en sont une estimation : une province ancienne partagée entre plusieurs régions nouvelles y est répartie au prorata de ses enfants de 6-11 ans par commune (recensement de 2019). Il n'y a pas de détail par commune pour les écoles.</li>
+<li><b>Sources.</b> Annuaire statistique de l'enseignement primaire 2024-2025 (DGESS), projections démographiques 2020-2035 (INSD, scénario moyen), fichier des localités du recensement de 2019 (INSD), limites administratives (OCHA, COD-AB), personnes déplacées internes (CONASUR), rapports mensuels de l'éducation en situation d'urgence de janvier et février 2026. Données agrégées par province.</li>
+</ul>
+</div>
+</main>
+<div id="bulle"></div>
+<script>
+const D=/*__DONNEES__*/null;
+const P=D.provinces, noms=Object.keys(P), $=id=>document.getElementById(id);
+const fr=n=>n==null||isNaN(n)?"–":Math.round(n).toLocaleString("fr-FR"), f1=v=>v==null||isNaN(v)?"–":v.toLocaleString("fr-FR",{maximumFractionDigits:1});
+const titre=s=>String(s).toLowerCase().replace(/(^|[\s-])\S/g,c=>c.toUpperCase());
+const cle=s=>String(s).normalize("NFD").replace(/[̀-ͯ]/g,"").toUpperCase().replace(/[^A-Z0-9]+/g," ").trim();
+const LIB={maintien:"Maintien",reprise:"Reprise",universel:"Universel"};
+const DESC={maintien:"Maintien : le taux de scolarisation de 2024-2025 est conservé dans chaque province. C'est le plancher des besoins.",
+ reprise:"Reprise : chaque province atteint au moins le taux médian national. Les besoins se déplacent vers les provinces en crise.",
+ universel:"Universel : tous les enfants de 6 à 11 ans sont scolarisés. C'est le plafond des besoins."};
+const PIL={surcharge:"Surcharge actuelle",deficit_projete:"Déficit projeté",vetuste:"Vétusté des salles",equite:"Équité (rural, parité, latrines)",pression_pdi:"Pression des déplacés"};
+const PER={intra_region:"Dans la région",provinces_voisines:"Provinces voisines",national:"National"};
+const DESCPER={intra_region:"Les maîtres ne bougent qu'entre provinces de la même région : c'est ce qu'une direction régionale peut décider seule.",
+ provinces_voisines:"Les maîtres peuvent aussi aller dans une province limitrophe d'une autre région : la décision associe les deux directions régionales.",
+ national:"Les maîtres peuvent aller dans n'importe quelle province en déficit : la décision relève du niveau national."};
+const REGLE={priorite:"Priorité d'abord",proximite:"Proximité d'abord"};
+const DESCREGLE={priorite:"Les maîtres vont d'abord aux provinces les plus en tension, même lointaines : l'urgence prime, le recrutement prenant des années.",
+ proximite:"Les maîtres vont d'abord aux provinces en déficit les plus proches : mutations plus courtes et moins coûteuses, la priorité étant traitée par le recrutement."};
+const NC=D.params.norme_classe||50, NM=D.params.norme_maitre||50, PARTS=D.params.parts, REGS=[...new Set(noms.map(p=>P[p].region))].sort();
+const PASS=D.passage||{}, NOUV=Object.keys(PASS).length>0, REGS_N=[...new Set(Object.values(PASS).flat().map(x=>x[0]))].sort();
+const wDans=(p,c)=>{if(!c)return 1;const t=c[0],n=c.slice(2);if(t==="A")return P[p].region===n?1:0;return (PASS[p]||[]).filter(x=>x[0]===n).reduce((a,x)=>a+x[2],0);};
+const principale=p=>NOUV&&PASS[p]&&PASS[p].length?"N|"+[...PASS[p]].sort((a,b)=>b[2]-a[2])[0][0]:"A|"+P[p].region;
+const nomCode=c=>c?titre(c.slice(2))+(c[0]==="A"&&NOUV?" (ancien découpage)":""):"Burkina Faso";
+const P0=Object.assign({},D.params.poids);
+let sc=D.scenarios[0], reg="", niv="provinces", met="score", tri={c:"rang",d:1}, w=Object.assign({},P0), per="intra_region", regle="priorite", ipart=Math.max(0,PARTS.indexOf(D.params.part_defaut)), df=0;
+let sel=null, module="m1", rang={}, score={}, rang0={};
+$("hz").textContent=D.params.annee_horizon+"-"+(D.params.annee_horizon+1);
+
+// ---------- calculs
+const zoneW=p=>wDans(p,reg), dansReg=p=>zoneW(p)>0, visibles=()=>noms.filter(dansReg);
+const nomZ=p=>titre(p)+(reg&&zoneW(p)<0.995?" ("+Math.round(100*zoneW(p))+" %)":"");
+function calcIndice(poids){const t=Object.values(poids).reduce((a,b)=>a+b,0)||1, s={};
+  noms.forEach(p=>{s[p]=100*Object.keys(PIL).reduce((a,k)=>a+(poids[k]||0)*(P[p].piliers[k]||0),0)/t;});
+  const o=[...noms].sort((a,b)=>s[b]-s[a]||a.localeCompare(b)), r={};o.forEach((p,i)=>r[p]=i+1);return {s,r};}
+function fluxActifs(){return (((D.flux[sc]||{})[per]||{})[regle]||{})[String(PARTS[ipart])]||[];}
+function gainDF(p){const x=P[p].sc[sc];return x.deficit_salles>0?Math.min(Math.floor((P[p].salles_pub||0)*df/100),x.deficit_salles):0;}
+function agreg(ps,wf){const a={eleves:0,eleves_pub:0,salles:0,maitres:0,deficit_salles:0,deficit_maitres:0,hors_ecole:0,eleves_h:0,pop_h:0,a_remplacer:0,excedent:0,score:0,n:ps.length};
+  let kt=0;ps.forEach(p=>{const x=P[p],s=x.sc[sc],k=wf?wf(p):1;kt+=k;a.eleves+=k*(x.eleves||0);a.eleves_pub+=k*(x.eleves_pub||0);a.salles+=k*(x.salles||0);a.maitres+=k*(x.maitres_publics||0);
+    a.deficit_salles+=k*(s.deficit_salles||0);a.deficit_maitres+=k*(s.deficit_maitres||0);a.hors_ecole+=k*(s.hors_ecole||0);a.eleves_h+=k*(s.eleves||0);a.pop_h+=k*(s.pop||0);a.a_remplacer+=k*(s.a_remplacer||0);a.excedent+=k*(s.excedent_maitres||0);a.score+=k*score[p];});
+  a.eleves_par_salle=a.salles?a.eleves/a.salles:null;a.eleves_par_maitre=a.maitres?a.eleves_pub/a.maitres:null;a.tbs=a.pop_h?100*a.eleves_h/a.pop_h:null;a.score=kt?a.score/kt:null;return a;}
+function valP(p,m){const x=P[p],s=x.sc[sc];return m==="score"?score[p]:m==="eleves_par_salle"?x.eleves_par_salle:m==="eleves_par_maitre"?x.eleves_par_maitre:m==="tbs"?(s.tbs==null?null:100*s.tbs):s[m];}
+const AG={};const agCode=c=>AG[c]||(AG[c]=agreg(noms.filter(q=>wDans(q,c)>0),q=>wDans(q,c)));
+function valZone(p,m){if(niv==="provinces")return valP(p,m);return agCode(principale(p))[m];}
+const METLIB={score:"Indice de priorité",deficit_salles:"Salles manquantes",deficit_maitres:"Maîtres publics manquants",hors_ecole:"Enfants hors école",tbs:"Taux brut de scolarisation (%)",eleves_par_salle:"Élèves par salle",eleves_par_maitre:"Élèves par maître public"};
+const dec=m=>m==="score"||m==="tbs"||m==="eleves_par_salle"||m==="eleves_par_maitre", fmt=(v,m)=>dec(m)?f1(v):fr(v);
+
+// ---------- cartes
+const NS="http://www.w3.org/2000/svg";let centres={};
+function construireCarte(svg,surClic,surSurvol){let x0=1e9,x1=-1e9,y0=1e9,y1=-1e9;
+  const anneaux=g=>g.type==="Polygon"?[g.coordinates]:g.coordinates;
+  D.carte.features.forEach(f=>anneaux(f.geometry).forEach(pol=>pol.forEach(r=>r.forEach(([x,y])=>{x0=Math.min(x0,x);x1=Math.max(x1,x);y0=Math.min(y0,y);y1=Math.max(y1,y);}))));
+  const k=Math.cos((y0+y1)/2*Math.PI/180),W=700,H=520,m=10,e=Math.min((W-2*m)/((x1-x0)*k),(H-2*m)/(y1-y0)),ox=(W-(x1-x0)*k*e)/2,oy=(H-(y1-y0)*e)/2;
+  const proj=([x,y])=>[ox+(x-x0)*k*e,oy+(y1-y)*e], gP=document.createElementNS(NS,"g"), gF=document.createElementNS(NS,"g");gF.setAttribute("class","flux");
+  D.carte.features.forEach(f=>{const n=f.properties.province;if(!P[n])return;let d="",sx=0,sy=0,c=0,best=0;
+    anneaux(f.geometry).forEach(pol=>{pol.forEach((r,i)=>{d+=r.map((pt,j)=>{const q=proj(pt);return (j?"L":"M")+q[0].toFixed(1)+" "+q[1].toFixed(1)}).join("")+"Z";
+      if(i===0&&r.length>best){best=r.length;sx=0;sy=0;c=0;r.forEach(pt=>{const q=proj(pt);sx+=q[0];sy+=q[1];c++;});}});});
+    centres[n]=[sx/c,sy/c];
+    const p=document.createElementNS(NS,"path");p.setAttribute("d",d);p.setAttribute("class","prov");p.dataset.p=n;p.setAttribute("fill-rule","evenodd");
+    p.addEventListener("click",()=>surClic(n));p.addEventListener("mousemove",ev=>bulle(ev,surSurvol(n)));p.addEventListener("mouseleave",()=>bulle());gP.appendChild(p);});
+  svg.appendChild(gP);svg.appendChild(gF);}
+function bulle(ev,h){const b=$("bulle");if(!ev){b.style.display="none";return;}b.innerHTML=h;b.style.display="block";
+  b.style.left=Math.min(ev.clientX+14,innerWidth-270)+"px";b.style.top=(ev.clientY+14)+"px";}
+function classes(vals){const v=vals.filter(x=>x!=null&&x>0).sort((a,b)=>a-b);if(!v.length)return [];
+  const q=f=>v[Math.min(v.length-1,Math.floor(f*v.length))];return [...new Set([q(.2),q(.4),q(.6),q(.8)])];}
+function couleur(v,br){if(v==null||(v<=0&&met!=="score"))return "var(--vide)";let i=0;while(i<br.length&&v>=br[i])i++;return "var(--c"+(i+1+(5-br.length-1))+")";}
+construireCarte($("carte"),n=>{sel=n;if(reg&&!dansReg(n)){reg=principale(n);$("reg").value=reg;}rendre();},
+  n=>"<b>"+titre(n)+"</b> ("+(NOUV?"région "+nomCode(principale(n)):titre(P[n].region))+")<br>"+METLIB[met]+(niv==="regions"?" de la région":"")+" : "+fmt(valZone(n,met),met)+"<br>Rang de priorité : "+rang[n]);
+construireCarte($("carte2"),n=>{sel=n;rendre();},n=>{const s=P[n].sc[sc];return "<b>"+titre(n)+"</b><br>Maîtres manquants : "+fr(s.deficit_maitres)+"<br>Excédent théorique : "+fr(s.excedent_maitres);});
+
+// ---------- export
+function exporter(nom,lignes){const t="﻿"+lignes.map(l=>l.map(c=>{c=c==null?"":String(c);return /[;"\n]/.test(c)?'"'+c.replace(/"/g,'""')+'"':c;}).join(";")).join("\r\n");
+  const a=document.createElement("a");a.href=URL.createObjectURL(new Blob([t],{type:"text/csv;charset=utf-8"}));a.download=nom;document.body.appendChild(a);a.click();a.remove();}
+function table(id,cols,lignes,opt){opt=opt||{};
+  document.querySelector("#"+id+" thead").innerHTML="<tr>"+cols.map(c=>'<th class="'+(c.g?"g":"")+'"'+(opt.tri?' data-c="'+c.k+'"':"")+">"+c.t+(opt.tri&&tri.c===c.k?(tri.d>0?" ▲":" ▼"):"")+"</th>").join("")+"</tr>";
+  document.querySelector("#"+id+" tbody").innerHTML=lignes.length?lignes.map(l=>'<tr class="'+(opt.clic?"clic ":"")+(l._sel?"sel":"")+'" data-id="'+(l._id||"")+'">'+cols.map(c=>'<td class="'+(c.g?"g":"")+'">'+(c.f?c.f(l[c.k]):l[c.k])+"</td>").join("")+"</tr>").join(""):'<tr><td class="g" colspan="'+cols.length+'">'+(opt.vide||"Aucune ligne.")+"</td></tr>";
+  if(opt.clic)document.querySelectorAll("#"+id+" tbody tr.clic").forEach(tr=>tr.onclick=()=>opt.clic(tr.dataset.id));}
+
+// ---------- rendu
+function rendre(){
+  const I=calcIndice(w);score=I.s;rang=I.r;Object.keys(AG).forEach(k=>delete AG[k]);
+  const V=visibles();if(!sel||!dansReg(sel))sel=[...V].sort((a,b)=>rang[a]-rang[b])[0];
+  const zone=reg?"région "+nomCode(reg):"Burkina Faso", A=agreg(V,zoneW);
+  document.querySelectorAll("#segsc button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.s===sc));
+  document.querySelectorAll("#segniv button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.n===niv));
+  document.querySelectorAll("#segper button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.p===per));
+  document.querySelectorAll("#segregle button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.r===regle));
+  document.querySelectorAll("#modules button").forEach(b=>b.setAttribute("aria-selected",b.dataset.m===module));
+  ["m1","m2","m3","m4"].forEach(m=>$(m).hidden=m!==module);
+  $("descsc").textContent=DESC[sc]||"";
+  // ===== 1
+  const k=[["Élèves par maître public",f1(A.eleves_par_maitre),"2024-2025 ; norme "+NM],["Élèves par salle",f1(A.eleves_par_salle),"2024-2025 ; norme "+NC],
+    ["Salles manquantes",fr(A.deficit_salles),"à la rentrée "+$("hz").textContent],["Maîtres publics manquants",fr(A.deficit_maitres),"avant tout redéploiement"],
+    ["Enfants de 6-11 ans hors école",fr(A.hors_ecole),"à l'horizon, dans ce scénario"],["Salles dégradées à remplacer",fr(A.a_remplacer),"en mauvais état en 2024-2025"]];
+  $("kpis").innerHTML=k.map(x=>'<div class="kpi"><div class="l">'+x[0]+'</div><div class="v">'+x[1]+'</div><div class="d">'+x[2]+" – "+zone+"</div></div>").join("");
+  const br=classes(noms.map(p=>valZone(p,met)));
+  $("titrecarte").textContent=METLIB[met]+(niv==="regions"?" par région":" par province")+(met==="score"||met.startsWith("eleves_par")?"":" – scénario "+LIB[sc].toLowerCase());
+  $("carte").querySelectorAll(".prov").forEach(p=>{const n=p.dataset.p;p.style.fill=couleur(valZone(n,met),br);p.classList.toggle("sel",n===sel);p.classList.toggle("hors",!dansReg(n));});
+  const bornes=[null,...br,null];let lg="";for(let i=0;i<br.length+1;i++){const a=bornes[i],b=bornes[i+1];
+    lg+='<span><i style="background:var(--c'+(i+1+(5-br.length-1))+')"></i>'+(a==null?"moins de "+fmt(b,met):b==null?fmt(a,met)+" et plus":fmt(a,met)+" à "+fmt(b,met))+"</span>";}
+  if(met!=="score")lg+='<span><i style="background:var(--vide)"></i>aucun ou non disponible</span>';
+  $("legende").innerHTML=lg;
+  const cols=[{k:"rang",t:niv==="regions"?"Provinces":"Rang"},{k:"nom",t:niv==="regions"?"Région":"Province",g:1,f:niv==="regions"?titre:nomZ},{k:"score",t:"Indice",f:f1},{k:"eleves_par_maitre",t:"Él./maître",f:f1},{k:"eleves_par_salle",t:"Él./salle",f:f1},
+    {k:"deficit_salles",t:"Salles manq.",f:fr},{k:"deficit_maitres",t:"Maîtres manq.",f:fr},{k:"tbs",t:"Scolar. %",f:f1}];
+  let L;
+  if(niv==="regions")L=(reg?[reg]:(NOUV?REGS_N.map(r=>"N|"+r):REGS.map(r=>"A|"+r))).map(c=>{const a=agCode(c);return Object.assign({},a,{_id:c,nom:c.slice(2),rang:a.n,_sel:c===reg});});
+  else L=V.map(p=>({_id:p,_sel:p===sel,rang:rang[p],nom:p,score:score[p],eleves_par_maitre:P[p].eleves_par_maitre,eleves_par_salle:P[p].eleves_par_salle,deficit_salles:P[p].sc[sc].deficit_salles,deficit_maitres:P[p].sc[sc].deficit_maitres,tbs:P[p].sc[sc].tbs==null?null:100*P[p].sc[sc].tbs}));
+  L.sort((a,b)=>{const x=a[tri.c],y=b[tri.c];return (typeof x==="string"?x.localeCompare(y):((x==null?-1e18:x)-(y==null?-1e18:y)))*tri.d;});
+  $("notepart").textContent=reg&&reg[0]==="N"&&V.some(p=>zoneW(p)<0.995)?"Province (62 %) : province de l'ancien découpage dont seule une partie est dans la région ; la ligne montre la province entière, les indicateurs de la région n'en retiennent que cette part (au prorata des enfants de 6-11 ans du recensement de 2019).":"";
+  $("titretab").textContent=(niv==="regions"?"Régions":"Provinces")+" – "+zone;
+  table("tab",cols,L,{tri:1,clic:id=>{if(niv==="regions"){reg=id;$("reg").value=reg;niv="provinces";sel=null;}else sel=id;rendre();}});
+  document.querySelectorAll("#tab th").forEach(th=>th.onclick=()=>{const c=th.dataset.c;tri=tri.c===c?{c,d:-tri.d}:{c,d:(c==="rang"||c==="nom")?1:-1};rendre();});
+  const x=P[sel],s=x.sc[sc],FL=fluxActifs();
+  const don=FL.filter(f=>f[1]===sel).map(f=>fr(f[2])+" de "+titre(f[0])), ced=FL.filter(f=>f[0]===sel).map(f=>fr(f[2])+" vers "+titre(f[1]));
+  const LF=[["Rang de priorité",rang[sel]+" sur "+noms.length+" (indice "+f1(score[sel])+")"],["Élèves par salle, 2024-2025",f1(x.eleves_par_salle)],["Élèves par maître public, 2024-2025",f1(x.eleves_par_maitre)],
+   ["Taux de scolarisation retenu",f1(100*s.tbs)+" %"],["Élèves attendus à l'horizon",fr(s.eleves)],["Enfants de 6-11 ans hors école",fr(s.hors_ecole)],
+   ["Salles manquantes",fr(s.deficit_salles)],["Salles dégradées à remplacer",fr(s.a_remplacer)],["Maîtres publics manquants",fr(s.deficit_maitres)],["Excédent théorique de maîtres",fr(s.excedent_maitres)],
+   ["Maîtres reçus (simulateur)",don.length?don.join(", "):"0"],["Maîtres cédés (simulateur)",ced.length?ced.join(", "):"0"],["Élèves déplacés internes pour 100 élèves",f1(x.edi_pour_100)]].concat(NOUV&&PASS[sel]?[["Nouveau découpage",PASS[sel].map(z=>titre(z[1])+" ("+titre(z[0])+")"+(PASS[sel].length>1?" "+Math.round(100*z[2])+" %":"")).join(", ")]]:[]);
+  $("fiche").innerHTML="<h2>"+titre(sel)+" <span class='petit'>région "+titre(x.region)+(NOUV?" (ancien découpage)":"")+" – scénario "+LIB[sc].toLowerCase()+"</span></h2><dl>"+LF.map(l=>"<dt>"+l[0]+"</dt><dd>"+l[1]+"</dd>").join("")+"</dl>";
+  const NN=[40,45,50,60,75].map(n=>[n,V.reduce((a,p)=>a+Math.max(0,Math.ceil((P[p].sc[sc].eleves||0)/n)-(P[p].salles||0)),0)]), mn=Math.max(1,...NN.map(r=>r[1]));
+  $("normes").innerHTML=NN.map(r=>'<div class="l"><span>'+r[0]+" élèves par classe"+(r[0]===NC?" (norme)":"")+'</span><span class="piste"><div class="b" style="width:'+(100*r[1]/mn).toFixed(1)+'%"></div></span><span class="n">'+fr(r[1])+"</span></div>").join("");
+  // ===== 2
+  const tw=Object.values(w).reduce((a,b)=>a+b,0)||1;
+  Object.keys(PIL).forEach(kk=>{const o=$("o_"+kk);if(o)o.textContent=Math.round(100*w[kk]/tw)+" %";});
+  const mp=Math.max(1,...Object.keys(PIL).map(kk=>100*w[kk]/tw));
+  $("titrepil").textContent="Pourquoi ce rang ? "+titre(sel);
+  $("piliers").innerHTML=Object.keys(PIL).map(kk=>{const c=100*w[kk]*(x.piliers[kk]||0)/tw;return '<div class="l"><span>'+PIL[kk]+'</span><span class="piste"><div class="b" style="width:'+(100*c/mp).toFixed(1)+'%"></div></span><span class="n">'+f1(c)+"</span></div>";}).join("");
+  $("notepiliers").textContent="Points apportés par chaque pilier à l'indice de "+titre(sel)+" (total "+f1(score[sel])+" sur 100). Cliquez sur une ligne du classement pour changer de province.";
+  $("titrecl").textContent="Classement des provinces – "+zone;
+  const LI=[...V].sort((a,b)=>rang[a]-rang[b]).map(p=>({_id:p,_sel:p===sel,rang:rang[p],nom:p,region:NOUV?principale(p).slice(2):P[p].region,score:score[p],rang0:rang0[p],ecart:rang0[p]-rang[p],stab:P[p].freq_top10,ds:P[p].sc[sc].deficit_salles,dm:P[p].sc[sc].deficit_maitres}));
+  table("tabind",[{k:"rang",t:"Rang"},{k:"nom",t:"Province",g:1,f:nomZ},{k:"region",t:"Région",g:1,f:titre},{k:"score",t:"Indice",f:f1},{k:"rang0",t:"Rang de référence"},
+    {k:"ecart",t:"Évolution",f:v=>v>0?"▲ "+v:v<0?"▼ "+(-v):"="},{k:"stab",t:"Stabilité",f:v=>v==null?"–":Math.round(100*v)+" %"},{k:"ds",t:"Salles manq.",f:fr},{k:"dm",t:"Maîtres manq.",f:fr}],LI,{clic:id=>{sel=id;rendre();}});
+  $("expcl").onclick=()=>exporter("classement_priorite.csv",[["rang","province","region","indice","rang_reference","salles_manquantes","maitres_manquants","scenario","poids"]].concat(
+    LI.map(l=>[l.rang,l.nom,l.region,l.score.toFixed(2),l.rang0,l.ds,l.dm,sc,Object.keys(PIL).map(kk=>kk+"="+Math.round(100*w[kk]/tw)).join(" ")])));
+  // ===== 3
+  $("descper").textContent=DESCPER[per];$("descregle").textContent=DESCREGLE[regle];$("opart").textContent=Math.round(100*PARTS[ipart])+" %";$("odf").textContent=df+" %";
+  const recu={},cede={};FL.forEach(f=>{cede[f[0]]=(cede[f[0]]||0)+f[2];recu[f[1]]=(recu[f[1]]||0)+f[2];});
+  const sR=V.reduce((a,p)=>a+zoneW(p)*(recu[p]||0),0), sC=V.reduce((a,p)=>a+zoneW(p)*(cede[p]||0),0), gdf=V.reduce((a,p)=>a+zoneW(p)*gainDF(p),0);
+  const recuExt=FL.reduce((a,f)=>a+f[2]*zoneW(f[1])*(1-zoneW(f[0])),0), cedeExt=FL.reduce((a,f)=>a+f[2]*zoneW(f[0])*(1-zoneW(f[1])),0);
+  const FZ=FL.filter(f=>dansReg(f[0])||dansReg(f[1])), nZ=FZ.reduce((a,f)=>a+f[2],0), kmMoy=nZ?FZ.reduce((a,f)=>a+f[2]*(f[3]||0),0)/nZ:0;
+  const interne=FL.filter(f=>dansReg(f[0])&&dansReg(f[1])).reduce((a,f)=>a+f[2],0);
+  $("titrebilan").textContent="Avant et après – "+zone;
+  $("bilan").innerHTML="<h3>Maîtres publics</h3><dl><dt>Maîtres manquants</dt><dd>"+fr(A.deficit_maitres)+"</dd><dt>Reçus par redéploiement"+(reg?" (dont "+fr(recuExt)+" d'une autre région)":"")+"</dt><dd>− "+fr(sR)+"</dd>"+
+    "<dt class='tot'>Maîtres à recruter</dt><dd class='tot'>"+fr(A.deficit_maitres-sR)+"</dd>"+
+    "<dt>Distance moyenne d'une mutation</dt><dd>"+(sR+sC?f1(kmMoy)+" km":"–")+"</dd>"+
+    "<dt>Excédent théorique</dt><dd>"+fr(A.excedent)+"</dd><dt>dont déplacés par le calcul"+(reg?" (dont "+fr(cedeExt)+" vers une autre région)":"")+"</dt><dd>"+fr(sC)+"</dd><dt>dont reste à décider</dt><dd>"+fr(A.excedent-sC)+"</dd></dl>"+
+    "<h3>Salles de classe</h3><dl><dt>Salles manquantes</dt><dd>"+fr(A.deficit_salles)+"</dd>"+(df?"<dt>Couvertes provisoirement par le double flux</dt><dd>− "+fr(gdf)+"</dd>":"")+
+    "<dt class='tot'>Salles à construire</dt><dd class='tot'>"+fr(A.deficit_salles-gdf)+"</dd><dt>Salles dégradées à remplacer, en plus</dt><dd>"+fr(A.a_remplacer)+"</dd></dl>";
+  const g2=$("carte2").querySelector(".flux");g2.innerHTML="";
+  $("carte2").querySelectorAll(".prov").forEach(p=>{const n=p.dataset.p,ss=P[n].sc[sc];p.style.fill=ss.deficit_maitres>0?"var(--c2)":ss.excedent_maitres>0?"var(--c4)":"var(--vide)";p.classList.toggle("hors",!dansReg(n));p.classList.toggle("sel",n===sel);});
+  const FV=FL.filter(f=>dansReg(f[0])||dansReg(f[1])), mx=Math.max(1,...FV.map(f=>f[2]));
+  FV.forEach(f=>{const a=centres[f[0]],b=centres[f[1]];if(!a||!b)return;const l=document.createElementNS(NS,"line");
+    l.setAttribute("x1",a[0]);l.setAttribute("y1",a[1]);l.setAttribute("x2",b[0]);l.setAttribute("y2",b[1]);l.setAttribute("stroke","var(--flux)");
+    l.setAttribute("stroke-width",(1.5+4*f[2]/mx).toFixed(1));l.setAttribute("stroke-linecap","round");
+    l.addEventListener("mousemove",ev=>bulle(ev,"<b>"+fr(f[2])+" maîtres</b><br>"+titre(f[0])+" → "+titre(f[1])));l.addEventListener("mouseleave",()=>bulle());
+    const c=document.createElementNS(NS,"circle");c.setAttribute("cx",b[0]);c.setAttribute("cy",b[1]);c.setAttribute("r",4);c.setAttribute("fill","var(--flux)");c.setAttribute("stroke","var(--surface)");c.setAttribute("stroke-width",2);c.style.pointerEvents="none";
+    g2.appendChild(l);g2.appendChild(c);});
+  const LE=V.filter(p=>P[p].sc[sc].excedent_maitres>0).map(p=>{const e=P[p].sc[sc].excedent_maitres;return {nom:p,region:P[p].region,exc:e,mob:Math.floor(e*PARTS[ipart]),dep:cede[p]||0,reste:e-(cede[p]||0)};}).sort((a,b)=>b.exc-a.exc);
+  table("tabexc",[{k:"nom",t:"Province",g:1,f:nomZ},{k:"exc",t:"Excédent",f:fr},{k:"mob",t:"Mobilisable",f:fr},{k:"dep",t:"Déplacés",f:fr},{k:"reste",t:"Reste à décider",f:fr}],LE,{vide:"Aucune province en excédent dans ce scénario."});
+  const LP=FV.map(f=>({o:f[0],ro:P[f[0]].region,d:f[1],rd:P[f[1]].region,n:f[2],km:f[3],rg:rang[f[1]]})).sort((a,b)=>a.rg-b.rg||b.n-a.n);
+  $("titreplan").textContent="Plan de mouvements proposé – "+zone+" ("+fr(LP.reduce((a,l)=>a+l.n,0))+" maîtres)";
+  table("tabplan",[{k:"o",t:"Province de départ",g:1,f:titre},{k:"ro",t:"Région",g:1,f:titre},{k:"d",t:"Province d'arrivée",g:1,f:titre},{k:"rd",t:"Région",g:1,f:titre},{k:"n",t:"Maîtres",f:fr},{k:"km",t:"Distance (km)",f:fr},{k:"rg",t:"Rang de l'arrivée"}],LP,
+    {vide:"Aucun mouvement avec ces réglages. Élargissez le périmètre ou augmentez la part mobilisable."});
+  $("expplan").onclick=()=>exporter("plan_redeploiement.csv",[["province_depart","region_depart","province_arrivee","region_arrivee","maitres","distance_km","scenario","perimetre","regle","part_mobilisable"]].concat(LP.map(l=>[l.o,l.ro,l.d,l.rd,l.n,l.km,sc,per,regle,PARTS[ipart]])));
+}
+
+// ---------- 4. import et controle
+function lireCSV(t){t=t.replace(/^﻿/,"");const L=t.split(/\r?\n/).filter(l=>l.trim());if(!L.length)return [];const sep=(L[0].split(";").length>=L[0].split(",").length)?";":",";
+  return L.map(l=>l.split(sep).map(c=>c.trim().replace(/^"|"$/g,"")));}
+function controler(t,nomf){const R=[],add=(ok,m)=>R.push([ok,m]), T=lireCSV(t);
+  if(T.length<2){add(0,"Le fichier est vide ou n'a pas de ligne de données.");return fin();}
+  const H=T[0].map(h=>cle(h).replace(/ /g,"_")), col={province:H.findIndex(h=>h.startsWith("PROVINCE")),eleves:H.findIndex(h=>h.startsWith("ELEVES")),maitres:H.findIndex(h=>h.startsWith("MAITRES")||h.startsWith("ENSEIGNANTS")),salles:H.findIndex(h=>h.startsWith("SALLES"))};
+  const manq=Object.keys(col).filter(c=>col[c]<0);add(!manq.length,manq.length?"Colonnes manquantes : "+manq.join(", ")+".":"Les quatre colonnes attendues sont présentes.");
+  if(manq.length)return fin();
+  const ref={};noms.forEach(p=>ref[cle(p)]=p);const vus={},lignes=[],inc=[],dbl=[],num=[],abr=[],ecarts=[];
+  T.slice(1).forEach((r,i)=>{const n=ref[cle(r[col.province]||"")];if(!n){inc.push(r[col.province]||"(vide, ligne "+(i+2)+")");return;}
+    if(vus[n]){dbl.push(titre(n));return;}vus[n]=1;
+    const v=["eleves","maitres","salles"].map(c=>Number(String(r[col[c]]||"").replace(/\s/g,"").replace(",",".")));
+    if(v.some(z=>!isFinite(z)||z<0)||String(r[col.eleves]||"")===""){num.push(titre(n));return;}
+    const epm=v[1]?v[0]/v[1]:null,eps=v[2]?v[0]/v[2]:null;if(epm==null||eps==null||epm<10||epm>150||eps<10||eps>150)abr.push(titre(n)+" ("+f1(epm)+" él./maître, "+f1(eps)+" él./salle)");
+    const e0=P[n].eleves_pub,ec=e0?100*(v[0]-e0)/e0:null;if(ec!=null&&Math.abs(ec)>30)ecarts.push(titre(n)+" ("+(ec>0?"+":"")+f1(ec)+" %)");
+    lignes.push({nom:n,region:P[n].region,e:v[0],m:v[1],s:v[2],epm,eps,mm:Math.max(0,Math.ceil(v[0]/NM)-v[1]),sm:Math.max(0,Math.ceil(v[0]/NC)-v[2]),ec});});
+  add(!inc.length,inc.length?inc.length+" province(s) non reconnue(s) : "+inc.slice(0,8).join(", ")+(inc.length>8?"…":"")+".":"Tous les noms de province sont reconnus.");
+  add(!dbl.length,dbl.length?"Provinces en double (seule la première ligne est gardée) : "+dbl.join(", ")+".":"Aucune province en double.");
+  add(!num.length,num.length?"Valeurs manquantes, négatives ou non numériques : "+num.join(", ")+".":"Toutes les valeurs sont des nombres positifs.");
+  add(!abr.length,abr.length?"Ratios hors de l'intervalle 10 à 150, à vérifier : "+abr.join(" ; ")+".":"Les ratios élèves par maître et par salle sont plausibles.");
+  add(!ecarts.length,ecarts.length?"Effectifs à plus de 30 % de la valeur de référence 2024-2025 : "+ecarts.join(" ; ")+".":"Les effectifs sont à moins de 30 % des valeurs de référence.");
+  const att=visibles().filter(p=>!vus[p]);add(!att.length,att.length?att.length+" province(s) de la zone affichée absente(s) du fichier : "+att.slice(0,8).map(titre).join(", ")+(att.length>8?"…":"")+".":"Toutes les provinces de la zone affichée sont dans le fichier.");
+  return fin(lignes);
+  function fin(lignes){const ko=R.filter(r=>!r[0]).length;
+    $("rapport").innerHTML="<p><b>"+nomf+"</b> : "+(lignes?lignes.length+" ligne(s) lue(s), ":"")+(ko?ko+" point(s) à corriger.":"aucune anomalie.")+"</p><ul>"+R.map(r=>'<li class="'+(r[0]?"ok":"ko")+'">'+r[1]+"</li>").join("")+"</ul>";
+    $("blocimp").hidden=!(lignes&&lignes.length);
+    if(lignes&&lignes.length)table("tabimp",[{k:"nom",t:"Province",g:1,f:titre},{k:"region",t:"Région",g:1,f:titre},{k:"e",t:"Élèves",f:fr},{k:"ec",t:"Écart",f:v=>v==null?"–":(v>0?"+":"")+f1(v)+" %"},{k:"epm",t:"Él./maître",f:f1},{k:"eps",t:"Él./salle",f:f1},{k:"mm",t:"Maîtres manq.",f:fr},{k:"sm",t:"Salles manq.",f:fr}],lignes);}}
+$("fichier").onchange=e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>controler(String(r.result),f.name.replace(/[<>&]/g,""));r.readAsText(f,"utf-8");};
+$("modele").onclick=()=>exporter("modele_effectifs.csv",[["province","eleves","maitres_publics","salles"]].concat(visibles().map(p=>[p,P[p].eleves_pub,P[p].maitres_publics,P[p].salles_pub])));
+function saisie(){const e=+$("s_e").value||0,m=+$("s_m").value||0,s=+$("s_s").value||0,epm=m?e/m:null,eps=s?e/s:null;
+  const L=[["Élèves par maître",f1(epm)+" (norme "+NM+")"],["Élèves par salle",f1(eps)+" (norme "+NC+")"],["Maîtres manquants pour la norme",fr(Math.max(0,Math.ceil(e/NM)-m))],["Salles manquantes pour la norme",fr(Math.max(0,Math.ceil(e/NC)-s))],
+    ["Classes au-dessus du seuil de 75 élèves",eps!=null&&eps>75?"oui : deux enseignants par classe (instruction de 2019)":"non"]];
+  $("saisie_res").innerHTML="<dl>"+L.map(l=>"<dt>"+l[0]+"</dt><dd>"+l[1]+"</dd>").join("")+"</dl>";}
+["s_e","s_m","s_s"].forEach(i=>$(i).oninput=saisie);
+
+// ---------- commandes
+rang0=calcIndice(P0).r;
+const optR=(l,t)=>l.map(r=>'<option value="'+t+"|"+r+'">'+titre(r)+"</option>").join("");
+$("reg").innerHTML='<option value="">Toutes les régions</option>'+(NOUV?'<optgroup label="Nouveau découpage ('+REGS_N.length+' régions)">'+optR(REGS_N,"N")+"</optgroup>"+'<optgroup label="Ancien découpage ('+REGS.length+' régions)">'+optR(REGS,"A")+"</optgroup>":optR(REGS,"A"));
+$("reg").onchange=e=>{reg=e.target.value;sel=null;rendre();};
+$("segsc").innerHTML=D.scenarios.map(s=>'<button data-s="'+s+'">'+(LIB[s]||s)+"</button>").join("");
+document.querySelectorAll("#segsc button").forEach(b=>b.onclick=()=>{sc=b.dataset.s;rendre();});
+document.querySelectorAll("#segniv button").forEach(b=>b.onclick=()=>{niv=b.dataset.n;tri=niv==="regions"?{c:"deficit_salles",d:-1}:{c:"rang",d:1};rendre();});
+$("segper").innerHTML=Object.keys(PER).map(p=>'<button data-p="'+p+'">'+PER[p]+"</button>").join("");
+document.querySelectorAll("#segper button").forEach(b=>b.onclick=()=>{per=b.dataset.p;rendre();});
+$("segregle").innerHTML=Object.keys(REGLE).map(r=>'<button data-r="'+r+'">'+REGLE[r]+"</button>").join("");
+document.querySelectorAll("#segregle button").forEach(b=>b.onclick=()=>{regle=b.dataset.r;rendre();});
+document.querySelectorAll("#modules button").forEach(b=>b.onclick=()=>{module=b.dataset.m;rendre();});
+$("met").onchange=e=>{met=e.target.value;rendre();};
+$("part").max=PARTS.length-1;$("part").value=ipart;$("part").oninput=e=>{ipart=+e.target.value;rendre();};
+$("df").oninput=e=>{df=+e.target.value;rendre();};
+$("poids").innerHTML=Object.keys(PIL).map(k=>'<div class="champ"><label for="w_'+k+'">'+PIL[k]+' <output id="o_'+k+'"></output></label><input type="range" id="w_'+k+'" min="0" max="50" step="5" value="'+Math.round(100*(P0[k]||0))+'"></div>').join("");
+Object.keys(PIL).forEach(k=>$("w_"+k).oninput=e=>{w[k]=+e.target.value/100;if(!Object.values(w).some(v=>v>0))w[k]=.05;rendre();});
+$("raz").onclick=()=>{w=Object.assign({},P0);Object.keys(PIL).forEach(k=>$("w_"+k).value=Math.round(100*P0[k]));rendre();};
+saisie();rendre();
+</script>
+</body>
+</html>

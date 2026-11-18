@@ -1,0 +1,16 @@
+scenario;norme_eleves_par_classe;deficit_salles;provinces_en_deficit
+maintien;45;14498.0;40
+maintien;50;7454.0;32
+maintien;55;2750.0;24
+maintien;60;860.0;12
+maintien;75;108.0;3
+reprise;45;28408.0;40
+reprise;50;19921.0;33
+reprise;55;14018.0;27
+reprise;60;10977.0;19
+reprise;75;7289.0;16
+universel;45;39336.0;43
+universel;50;29193.0;39
+universel;55;21829.0;33
+universel;60;17275.0;25
+universel;75;11058.0;18

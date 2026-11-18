@@ -1,0 +1,28 @@
+DEPOT 03 - 03_transformation - D3 (v2)
+
+Etape 03 : transformation. Script : scripts/03_transformation_base_province.py -> donnees_transformees/03_base_province.csv (une ligne par province).
+Convention : l'annee scolaire N/N+1 est rapprochee de la population de l'annee civile N (k = 0), ce qui reproduit le taux brut de scolarisation publie pour 2024-2025.
+03_validation_tbs.csv : retro-prediction de 2024 (maintien du dernier taux contre tendance lineaire 2020-2023).
+
+CONTENU DU DEPOT
+Le depot de cette etape se compose de trois fichiers : les donnees produites, le code, et ce LISEZ-MOI.
+
+FasoEquiEduc_03_D3_architect_donnees_base_province_validation_v2.zip  (4 fichiers)
+   - 03_transformation/donnees_transformees/03_base_province.csv  (28.6 Ko)
+   - 03_transformation/donnees_transformees/03_journal_transformation.csv  (0.8 Ko)
+   - 03_transformation/donnees_transformees/03_parametres_utilises.json  (2.4 Ko)
+   - 03_transformation/donnees_transformees/03_validation_tbs.csv  (4.9 Ko)
+
+FasoEquiEduc_03_D3_architect_code_script_transformation_v2.zip  (9 fichiers)
+   - 03_transformation/scripts/03_transformation_base_province.py  (14.9 Ko)
+   - executer.py  (11.2 Ko)
+   - depot.py  (7.9 Ko)
+   - requirements.txt  (0.2 Ko)
+   - LISEZ-MOI.txt  (3.8 Ko)
+   - README.md  (1.6 Ko)
+   - communs/outils_communs.py  (13.3 Ko)
+   - parametres/parametres_modele.json  (1.6 Ko)
+   - parametres/chemins_sources_modele.json  (0.7 Ko)
+
+RELANCER
+Dans le projet : python python.py --seulement 03 (voir LISEZ-MOI.txt du code pour l'installation et chemins_sources.json).

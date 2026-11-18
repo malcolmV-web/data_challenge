@@ -1,0 +1,20 @@
+{
+  "_aide": "Soit renseigner dossier_datapack (le script cherche les sources par leur nom, y compris dans les sous-dossiers ; ambigu ou introuvable = etape ignoree et signalee), soit renseigner le chemin complet de chaque source (laisser \"\" pour ignorer l'etape correspondante).",
+  "dossier_datapack": "/home/malcolmv/Documents/FASO_EquiEduc/DataPack_DCB_2026",
+  "classeur_primaire": "",
+  "cns530_annuaire": "",
+  "projections_insd": "",
+  "cod_ab_dossier": "/home/malcolmv/Documents/FASO_EquiEduc/DataPack_DCB_2026/data/04_Cartographie_SIG/COD-AB_limites_administratives",
+  "provinces_geojson": "",
+  "adminlines_csv": "",
+  "esu_janvier_2026": "/home/malcolmv/Documents/FASO_EquiEduc/DataPack_DCB_2026/data/01_Education_MENAPLN_DGESS/ESU_Rapports_mensuels/Rapport_statistique_mensuel_ESU_Janvier_2026.csv",
+  "esu_fevrier_2026": "/home/malcolmv/Documents/FASO_EquiEduc/DataPack_DCB_2026/data/01_Education_MENAPLN_DGESS/ESU_Rapports_mensuels/Rapport_statistique_mensuel_ESU_Février_2026.csv",
+  "osm_ecoles": "/home/malcolmv/Documents/FASO_EquiEduc/DataPack_DCB_2026/data/04_Cartographie_SIG/Ecoles_OSM_HOTOSM/ecoles_osm_burkina.csv",
+  "pdi_conasur_2022_12": "",
+  "pdi_conasur_2022_12_statistiques": "",
+  "idps4": "/home/malcolmv/Documents/FASO_EquiEduc/DataPack_DCB_2026/data/03_Conditions_de_Vie_et_Emploi/PDI_CONASUR/idps4__Tableau.csv",
+  "rgph2019_localites": "",
+  "alias_provinces": {
+    "KOOSIN": "KOSSIN"
+  }
+}

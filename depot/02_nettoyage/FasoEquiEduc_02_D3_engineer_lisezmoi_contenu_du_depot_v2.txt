@@ -1,0 +1,97 @@
+DEPOT 02 - 02_nettoyage - D3 (v2)
+
+Etape 02 : nettoyage. Un dossier par source ; fichiers 02_nettoye_* (données), 02_controles_* (controles), 02_journal_* (journal).
+Découpage : 45 provinces et 13 regions (ancien decoupage). Les rapports ESU 2026 (17 regions, 47 provinces) sont ramenés aux provinces anciennes
+par la table de correspondance COD-AB ; KOOSIN (ESU) = KOSSIN (COD-AB) = KOSSI (annuaire).
+Anomalies des sources, documentées et sans effet sur les calculs :
+ - projections INSD, Oudalan, 2031 : la colonne Ensemble repète la valeur Homme de 2029 ; le total retenu est garcons + filles ;
+ - projections INSD nationales, tableau A2.2, 2025 : urbain + rural differe de l'ensemble ; ces colonnes ne sont pas utilisees ;
+ - classeur statistique et annuaire : 9 ecarts sur 390 en 2018 (Est, Nord, Sahel), au plus 4,4 %.
+Des cellules de plusieurs fichiers contenaient un texte adresse à un assistant IA : il est ecarté et comptabilisé dans les journaux.
+Fichier des localites RGPH 2019 (rgph2019_localites/) : population par commune (en-tetes 'COMMUNE: ... - Urbain/Rural' et localites) ; rattachement des communes au COD-AB ; poids de passage ancien -> nouveau découpage = part des 6-11 ans.
+
+CONTENU DU DEPOT
+Le dépot de cette étape se compose de trois fichiers : les données produites, le code, et ce LISEZ-MOI.
+
+FasoEquiEduc_02_D3_engineer_donnees_nettoyees_controles_journaux_v2.zip  (52 fichiers)
+   - 02_nettoyage/carte_provinces_voisins/02_nettoye_carte_provinces_45.geojson  (919.9 Ko)
+   - 02_nettoyage/carte_provinces_voisins/02_nettoye_carte_voisins_provinces.csv  (9.0 Ko)
+   - 02_nettoyage/carte_provinces_voisins/02_nettoye_carte_voisins_provinces_adminlines.csv  (3.9 Ko)
+   - 02_nettoyage/carte_provinces_voisins/02_nettoye_carte_voisins_regions.csv  (1.2 Ko)
+   - 02_nettoyage/classeur_primaire_2016-2025/02_nettoye_classeur_inventaire_tableaux.csv  (3.3 Ko)
+   - 02_nettoyage/classeur_primaire_2016-2025/02_nettoye_classeur_tableaux_long.csv  (714.5 Ko)
+   - 02_nettoyage/cns530_annuaire_2024-25/02_nettoye_cns530_long.csv  (899.1 Ko)
+   - 02_nettoyage/cns530_annuaire_2024-25/02_nettoye_cns530_referentiel_provinces.csv  (0.9 Ko)
+   - 02_nettoyage/cod_ab_limites_administratives/02_nettoye_cod_ab_communes_ancien_decoupage.csv  (40.0 Ko)
+   - 02_nettoyage/cod_ab_limites_administratives/02_nettoye_cod_ab_correspondance_provinces_ancien_nouveau.csv  (1.5 Ko)
+   - 02_nettoyage/cod_ab_limites_administratives/02_nettoye_cod_ab_provinces_anciennes.csv  (1.6 Ko)
+   - 02_nettoyage/esu_rapports_2026/02_nettoye_esu_2026_long.csv  (524.3 Ko)
+   - 02_nettoyage/esu_rapports_2026/02_nettoye_esu_2026_province_ancienne.csv  (125.0 Ko)
+   - 02_nettoyage/osm_ecoles/02_nettoye_osm_couverture_vs_cns530.csv  (3.8 Ko)
+   - 02_nettoyage/osm_ecoles/02_nettoye_osm_par_commune.csv  (5.9 Ko)
+   - 02_nettoyage/osm_ecoles/02_nettoye_osm_par_province.csv  (3.0 Ko)
+   - 02_nettoyage/pdi_conasur_2022-12/02_nettoye_pdi_conasur_province_2022-12.csv  (2.8 Ko)
+   - 02_nettoyage/pdi_idps4_serie/02_nettoye_pdi_idps4_dates.csv  (1.6 Ko)
+   - 02_nettoyage/pdi_idps4_serie/02_nettoye_pdi_idps4_province_derniere.csv  (2.8 Ko)
+   - 02_nettoyage/pdi_idps4_serie/02_nettoye_pdi_idps4_province_serie.csv  (99.9 Ko)
+   - 02_nettoyage/projections_insd_nationales/02_nettoye_projections_identification_scenario.csv  (0.3 Ko)
+   - 02_nettoyage/projections_insd_nationales/02_nettoye_projections_nationales_long.csv  (2402.3 Ko)
+   - 02_nettoyage/projections_insd_nationales/02_nettoye_projections_population_nationale_6_11.csv  (2.5 Ko)
+   - 02_nettoyage/projections_insd_provinces_2020-2035/02_nettoye_projections_population_cible_province.csv  (97.1 Ko)
+   - 02_nettoyage/projections_insd_provinces_2020-2035/02_nettoye_projections_population_cible_region.csv  (28.3 Ko)
+   - 02_nettoyage/projections_insd_provinces_2020-2035/02_nettoye_projections_provinces_long.csv  (3692.6 Ko)
+   - 02_nettoyage/rgph2019_localites/02_nettoye_rgph2019_communes.csv  (36.3 Ko)
+   - 02_nettoyage/rgph2019_localites/02_nettoye_rgph2019_localites.csv  (1371.4 Ko)
+   - 02_nettoyage/rgph2019_localites/02_nettoye_rgph2019_poids_ancien_nouveau.csv  (3.4 Ko)
+   - 02_nettoyage/carte_provinces_voisins/02_controles_carte_voisins.csv  (0.5 Ko)
+   - 02_nettoyage/classeur_primaire_2016-2025/02_controles_classeur_totaux.csv  (173.3 Ko)
+   - 02_nettoyage/cns530_annuaire_2024-25/02_controles_cns530.csv  (288.0 Ko)
+   - 02_nettoyage/cod_ab_limites_administratives/02_controles_cod_ab.csv  (0.2 Ko)
+   - 02_nettoyage/esu_rapports_2026/02_controles_esu_2026.csv  (1.8 Ko)
+   - 02_nettoyage/pdi_conasur_2022-12/02_controles_pdi_conasur_regions.csv  (0.5 Ko)
+   - 02_nettoyage/pdi_idps4_serie/02_controles_pdi_idps4_vs_conasur_2022-12.csv  (0.5 Ko)
+   - 02_nettoyage/projections_insd_nationales/02_controles_projections_nationales.csv  (2263.3 Ko)
+   - 02_nettoyage/projections_insd_provinces_2020-2035/02_controles_projections_provinces.csv  (2994.8 Ko)
+   - 02_nettoyage/recoupements_classeur_cns530_projections/02_controles_convention_annee.csv  (41.1 Ko)
+   - 02_nettoyage/recoupements_classeur_cns530_projections/02_controles_recoupement_effectifs.csv  (17.4 Ko)
+   - 02_nettoyage/rgph2019_localites/02_controles_rgph2019.csv  (0.9 Ko)
+   - 02_nettoyage/carte_provinces_voisins/02_journal_carte.csv  (0.0 Ko)
+   - 02_nettoyage/classeur_primaire_2016-2025/02_journal_classeur.csv  (2.4 Ko)
+   - 02_nettoyage/cns530_annuaire_2024-25/02_journal_cns530.csv  (2.8 Ko)
+   - 02_nettoyage/cod_ab_limites_administratives/02_journal_cod_ab.csv  (0.7 Ko)
+   - 02_nettoyage/esu_rapports_2026/02_journal_esu_2026.csv  (0.8 Ko)
+   - 02_nettoyage/osm_ecoles/02_journal_osm.csv  (0.6 Ko)
+   - 02_nettoyage/pdi_conasur_2022-12/02_journal_pdi_conasur.csv  (0.4 Ko)
+   - 02_nettoyage/pdi_idps4_serie/02_journal_pdi_idps4.csv  (0.5 Ko)
+   - 02_nettoyage/projections_insd_nationales/02_journal_projections_nationales.csv  (0.4 Ko)
+   - 02_nettoyage/projections_insd_provinces_2020-2035/02_journal_projections_provinces.csv  (0.4 Ko)
+   - 02_nettoyage/rgph2019_localites/02_journal_rgph2019.csv  (3.4 Ko)
+
+FasoEquiEduc_02_D3_engineer_code_scripts_nettoyage_v2.zip  (23 fichiers)
+   - 02_nettoyage/scripts/02_nettoyage_carte_provinces_voisins.py  (7.1 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_carte_voisins_adminlines.py  (4.9 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_classeur_tableaux.py  (10.1 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_cns530_annuaire.py  (21.8 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_cod_ab_decoupage.py  (10.7 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_esu_2026.py  (24.4 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_osm_ecoles.py  (6.6 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_pdi_conasur.py  (7.3 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_pdi_idps4.py  (7.6 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_projections_nationales.py  (9.7 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_projections_provinces.py  (12.3 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_recoupements_convention.py  (5.4 Ko)
+   - 02_nettoyage/scripts/02_nettoyage_rgph2019_localites.py  (17.3 Ko)
+   - tests/tests_fabriquer_base_fictive.py  (4.7 Ko)
+   - tests/tests_fabriquer_esu_fictif.py  (8.3 Ko)
+   - executer.py  (11.2 Ko)
+   - depot.py  (7.9 Ko)
+   - requirements.txt  (0.2 Ko)
+   - LISEZ-MOI.txt  (3.8 Ko)
+   - README.md  (1.6 Ko)
+   - communs/outils_communs.py  (13.3 Ko)
+   - parametres/parametres_modele.json  (1.6 Ko)
+   - parametres/chemins_sources_modele.json  (0.7 Ko)
+
+RELANCER
+Dans le projet : python executer.py --seulement 02 (voir LISEZ-MOI.txt du code pour l'installation et chemins_sources.json).
+

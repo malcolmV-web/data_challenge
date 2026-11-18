@@ -1,0 +1,6 @@
+gravite;message
+INFO;302 communes d'accueil, 45 provinces avec PDI sur 45
+INFO;0 communes dont hommes + femmes + enfants differe du total (ecart > 0,5)
+INFO;controle regions : 13 regions comparees, 0 ecart(s) > 0,5 %
+INFO;somme des regions / total national publie : ecart relatif 0.0000
+ATTENTION;6 cellule(s) contenaient une note adressee a un assistant IA : texte ecarte, non execute

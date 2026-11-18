@@ -1,0 +1,1592 @@
+cycle;tableau;indicateur;annee_debut;sexe;colonne_autre;province;commune;statut;milieu;niveau_etudes;somme_details;ligne_total;controle;ecart_relatif;region;type_ligne;Filles;Garcons;Total
+prescolaire;1;EFFECTIFS;2015;Filles;;-;-;-;-;-;26997.0;26997.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2015;Garcons;;-;-;-;-;-;28006.0;28006.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2015;Total;;-;-;-;-;-;55003.0;55003.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2016;Filles;;-;-;-;-;-;33154.0;33154.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2016;Garcons;;-;-;-;-;-;34579.0;34579.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2016;Total;;-;-;-;-;-;67733.0;67733.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2017;Filles;;-;-;-;-;-;40086.0;40086.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2017;Garcons;;-;-;-;-;-;41845.0;41845.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2017;Total;;-;-;-;-;-;81931.0;81931.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2018;Filles;;-;-;-;-;-;51729.0;51729.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2018;Garcons;;-;-;-;-;-;53756.0;53756.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2018;Total;;-;-;-;-;-;105485.0;105485.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2019;Filles;;-;-;-;-;-;61096.0;61096.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2019;Garcons;;-;-;-;-;-;62910.0;62910.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2019;Total;;-;-;-;-;-;124006.0;124006.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2020;Filles;;-;-;-;-;-;64282.0;64282.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2020;Garcons;;-;-;-;-;-;66129.0;66129.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2020;Total;;-;-;-;-;-;130411.0;130411.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2021;Filles;;-;-;-;-;-;67953.0;67953.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2021;Garcons;;-;-;-;-;-;70715.0;70715.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2021;Total;;-;-;-;-;-;138668.0;138668.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2022;Filles;;-;-;-;-;-;69908.0;69908.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2022;Garcons;;-;-;-;-;-;72396.0;72396.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2022;Total;;-;-;-;-;-;142304.0;142304.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2023;Filles;;-;-;-;-;-;75598.0;75598.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2023;Garcons;;-;-;-;-;-;78072.0;78072.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2023;Total;;-;-;-;-;-;153670.0;153670.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2024;Filles;;-;-;-;-;-;93667.0;93667.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2024;Garcons;;-;-;-;-;-;96823.0;96823.0;somme_region_vs_total;0.0;;;;;
+prescolaire;1;EFFECTIFS;2024;Total;;-;-;-;-;-;190490.0;190490.0;somme_region_vs_total;0.0;;;;;
+prescolaire;2;EFFECTIFS;2015;Filles;;-;-;;-;-;26997.0;26997.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2015;Garcons;;-;-;;-;-;28006.0;28006.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2015;Total;;-;-;;-;-;55003.0;55003.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2016;Filles;;-;-;;-;-;33154.0;33154.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2016;Garcons;;-;-;;-;-;34579.0;34579.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2016;Total;;-;-;;-;-;67733.0;67733.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2017;Filles;;-;-;;-;-;40086.0;40086.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2017;Garcons;;-;-;;-;-;41845.0;41845.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2017;Total;;-;-;;-;-;81931.0;81931.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2018;Filles;;-;-;;-;-;51729.0;51729.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2018;Garcons;;-;-;;-;-;53756.0;53756.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2018;Total;;-;-;;-;-;105485.0;105485.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2019;Filles;;-;-;;-;-;61096.0;61096.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2019;Garcons;;-;-;;-;-;62910.0;62910.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2019;Total;;-;-;;-;-;124006.0;124006.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2020;Filles;;-;-;;-;-;64282.0;64282.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2020;Garcons;;-;-;;-;-;66129.0;66129.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2020;Total;;-;-;;-;-;130411.0;130411.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2021;Filles;;-;-;;-;-;67953.0;67953.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2021;Garcons;;-;-;;-;-;70715.0;70715.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2021;Total;;-;-;;-;-;138668.0;138668.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2022;Filles;;-;-;;-;-;69908.0;69908.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2022;Garcons;;-;-;;-;-;72396.0;72396.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2022;Total;;-;-;;-;-;142304.0;142304.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2023;Filles;;-;-;;-;-;75598.0;75598.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2023;Garcons;;-;-;;-;-;78072.0;78072.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2023;Total;;-;-;;-;-;153670.0;153670.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2024;Filles;;-;-;;-;-;93667.0;93667.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2024;Garcons;;-;-;;-;-;96823.0;96823.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;2;EFFECTIFS;2024;Total;;-;-;;-;-;190490.0;190490.0;somme_statut_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2017;Filles;;-;-;-;;-;40086.0;40086.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2017;Garcons;;-;-;-;;-;41845.0;41845.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2017;Total;;-;-;-;;-;81931.0;81931.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2018;Filles;;-;-;-;;-;51729.0;51729.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2018;Garcons;;-;-;-;;-;53756.0;53756.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2018;Total;;-;-;-;;-;105485.0;105485.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2019;Filles;;-;-;-;;-;61096.0;61096.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2019;Garcons;;-;-;-;;-;62910.0;62910.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2019;Total;;-;-;-;;-;124006.0;124006.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2020;Filles;;-;-;-;;-;64282.0;64282.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2020;Garcons;;-;-;-;;-;66129.0;66129.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2020;Total;;-;-;-;;-;130411.0;130411.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2021;Filles;;-;-;-;;-;67953.0;67953.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2021;Garcons;;-;-;-;;-;70715.0;70715.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2021;Total;;-;-;-;;-;138668.0;138668.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2022;Filles;;-;-;-;;-;69908.0;69908.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2022;Garcons;;-;-;-;;-;72396.0;72396.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2022;Total;;-;-;-;;-;142304.0;142304.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2023;Filles;;-;-;-;;-;75598.0;75598.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2023;Garcons;;-;-;-;;-;78072.0;78072.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2023;Total;;-;-;-;;-;153670.0;153670.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2024;Filles;;-;-;-;;-;93667.0;93667.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2024;Garcons;;-;-;-;;-;96823.0;96823.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;3;EFFECTIFS;2024;Total;;-;-;-;;-;190490.0;190490.0;somme_milieu_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Filles;;-;-;COMMUNAUTAIRE;-;;6287.0;6287.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Filles;;-;-;PRIVE;-;;13922.0;13922.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Filles;;-;-;PUBLIC;-;;6788.0;6788.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Garcons;;-;-;COMMUNAUTAIRE;-;;6027.0;6027.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Garcons;;-;-;PRIVE;-;;14728.0;14728.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Garcons;;-;-;PUBLIC;-;;7251.0;7251.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Total;;-;-;COMMUNAUTAIRE;-;;12314.0;12314.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Total;;-;-;PRIVE;-;;28650.0;28650.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2015;Total;;-;-;PUBLIC;-;;14039.0;14039.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Filles;;-;-;COMMUNAUTAIRE;-;;4654.0;4654.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Filles;;-;-;PRIVE;-;;19434.0;19434.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Filles;;-;-;PUBLIC;-;;9066.0;9066.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Garcons;;-;-;COMMUNAUTAIRE;-;;4458.0;4458.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Garcons;;-;-;PRIVE;-;;20448.0;20448.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Garcons;;-;-;PUBLIC;-;;9673.0;9673.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Total;;-;-;COMMUNAUTAIRE;-;;9112.0;9112.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Total;;-;-;PRIVE;-;;39882.0;39882.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2016;Total;;-;-;PUBLIC;-;;18739.0;18739.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Filles;;-;-;COMMUNAUTAIRE;-;;5331.0;5331.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Filles;;-;-;PRIVE;-;;25083.0;25083.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Filles;;-;-;PUBLIC;-;;9672.0;9672.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Garcons;;-;-;COMMUNAUTAIRE;-;;5166.0;5166.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Garcons;;-;-;PRIVE;-;;26271.0;26271.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Garcons;;-;-;PUBLIC;-;;10408.0;10408.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Total;;-;-;COMMUNAUTAIRE;-;;10497.0;10497.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Total;;-;-;PRIVE;-;;51354.0;51354.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2017;Total;;-;-;PUBLIC;-;;20080.0;20080.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Filles;;-;-;COMMUNAUTAIRE;-;;10057.0;10057.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Filles;;-;-;PRIVE;-;;30814.0;30814.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Filles;;-;-;PUBLIC;-;;10858.0;10858.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Garcons;;-;-;COMMUNAUTAIRE;-;;9995.0;9995.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Garcons;;-;-;PRIVE;-;;32319.0;32319.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Garcons;;-;-;PUBLIC;-;;11442.0;11442.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Total;;-;-;COMMUNAUTAIRE;-;;20052.0;20052.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Total;;-;-;PRIVE;-;;63133.0;63133.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2018;Total;;-;-;PUBLIC;-;;22300.0;22300.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Filles;;-;-;COMMUNAUTAIRE;-;;10934.0;10934.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Filles;;-;-;PRIVE;-;;38426.0;38426.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Filles;;-;-;PUBLIC;-;;11736.0;11736.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Garcons;;-;-;COMMUNAUTAIRE;-;;10528.0;10528.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Garcons;;-;-;PRIVE;-;;40238.0;40238.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Garcons;;-;-;PUBLIC;-;;12144.0;12144.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Total;;-;-;COMMUNAUTAIRE;-;;21462.0;21462.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Total;;-;-;PRIVE;-;;78664.0;78664.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2019;Total;;-;-;PUBLIC;-;;23880.0;23880.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Filles;;-;-;COMMUNAUTAIRE;-;;10487.0;10487.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Filles;;-;-;PRIVE;-;;41212.0;41212.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Filles;;-;-;PUBLIC;-;;12583.0;12583.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Garcons;;-;-;COMMUNAUTAIRE;-;;9887.0;9887.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Garcons;;-;-;PRIVE;-;;43031.0;43031.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Garcons;;-;-;PUBLIC;-;;13211.0;13211.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Total;;-;-;COMMUNAUTAIRE;-;;20374.0;20374.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Total;;-;-;PRIVE;-;;84243.0;84243.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2020;Total;;-;-;PUBLIC;-;;25794.0;25794.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Filles;;-;-;COMMUNAUTAIRE;-;;10484.0;10484.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Filles;;-;-;PRIVE;-;;43721.0;43721.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Filles;;-;-;PUBLIC;-;;13748.0;13748.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Garcons;;-;-;COMMUNAUTAIRE;-;;9960.0;9960.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Garcons;;-;-;PRIVE;-;;46138.0;46138.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Garcons;;-;-;PUBLIC;-;;14617.0;14617.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Total;;-;-;COMMUNAUTAIRE;-;;20444.0;20444.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Total;;-;-;PRIVE;-;;89859.0;89859.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2021;Total;;-;-;PUBLIC;-;;28365.0;28365.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Filles;;-;-;COMMUNAUTAIRE;-;;9482.0;9482.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Filles;;-;-;PRIVE;-;;45725.0;45725.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Filles;;-;-;PUBLIC;-;;14701.0;14701.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Garcons;;-;-;COMMUNAUTAIRE;-;;8977.0;8977.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Garcons;;-;-;PRIVE;-;;48047.0;48047.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Garcons;;-;-;PUBLIC;-;;15372.0;15372.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Total;;-;-;COMMUNAUTAIRE;-;;18459.0;18459.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Total;;-;-;PRIVE;-;;93772.0;93772.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2022;Total;;-;-;PUBLIC;-;;30073.0;30073.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Filles;;-;-;COMMUNAUTAIRE;-;;10830.0;10830.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Filles;;-;-;PRIVE;-;;49440.0;49440.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Filles;;-;-;PUBLIC;-;;15328.0;15328.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Garcons;;-;-;COMMUNAUTAIRE;-;;10105.0;10105.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Garcons;;-;-;PRIVE;-;;51698.0;51698.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Garcons;;-;-;PUBLIC;-;;16269.0;16269.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Total;;-;-;COMMUNAUTAIRE;-;;20935.0;20935.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Total;;-;-;PRIVE;-;;101138.0;101138.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2023;Total;;-;-;PUBLIC;-;;31597.0;31597.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Filles;;-;-;COMMUNAUTAIRE;-;;11296.0;11296.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Filles;;-;-;PRIVE;-;;48243.0;48243.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Filles;;-;-;PUBLIC;-;;34128.0;34128.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Garcons;;-;-;COMMUNAUTAIRE;-;;10395.0;10395.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Garcons;;-;-;PRIVE;-;;50464.0;50464.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Garcons;;-;-;PUBLIC;-;;35964.0;35964.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Total;;-;-;COMMUNAUTAIRE;-;;21691.0;21691.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Total;;-;-;PRIVE;-;;98707.0;98707.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;4;EFFECTIFS;2024;Total;;-;-;PUBLIC;-;;70092.0;70092.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;29.0;29.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;11.0;11.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;232.0;232.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;51.0;51.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;68.0;68.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;41.0;41.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;68.0;68.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;44.0;44.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;33.0;33.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;29.0;29.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;28.0;28.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;8.0;8.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2015;-;;-;-;;-;-;10.0;10.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;40.0;40.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;16.0;16.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;415.0;415.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;70.0;70.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;73.0;73.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;61.0;61.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;15.0;15.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;35.0;35.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;133.0;133.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;37.0;37.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;40.0;40.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;6.0;6.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2016;-;;-;-;;-;-;17.0;17.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;40.0;40.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;13.0;13.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;573.0;573.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;69.0;69.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;76.0;76.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;49.0;49.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;20.0;20.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;28.0;28.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;77.0;77.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;36.0;36.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;53.0;53.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;4.0;4.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2017;-;;-;-;;-;-;11.0;11.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;43.0;43.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;16.0;16.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;719.0;719.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;61.0;61.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;105.0;105.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;97.0;97.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;55.0;55.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;38.0;38.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;95.0;95.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;34.0;34.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;55.0;55.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;16.0;16.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2018;-;;-;-;;-;-;14.0;14.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;43.0;43.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;18.0;18.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;858.0;858.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;85.0;85.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;83.0;83.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;121.0;121.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;68.0;68.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;37.0;37.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;141.0;141.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;36.0;36.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;71.0;71.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;16.0;16.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2019;-;;-;-;;-;-;20.0;20.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;53.0;53.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;22.0;22.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;863.0;863.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;95.0;95.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;101.0;101.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;134.0;134.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;67.0;67.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;29.0;29.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;171.0;171.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;43.0;43.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;65.0;65.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;11.0;11.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2020;-;;-;-;;-;-;27.0;27.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;43.0;43.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;27.0;27.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;953.0;953.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;104.0;104.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;102.0;102.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;131.0;131.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;68.0;68.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;30.0;30.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;155.0;155.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;45.0;45.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;69.0;69.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;11.0;11.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2021;-;;-;-;;-;-;31.0;31.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;35.0;35.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;30.0;30.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;1042.0;1042.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;98.0;98.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;74.0;74.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;139.0;139.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;66.0;66.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;29.0;29.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;175.0;175.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;46.0;46.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;84.0;84.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;7.0;7.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2022;-;;-;-;;-;-;39.0;39.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;41.0;41.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;30.0;30.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;1076.0;1076.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;116.0;116.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;80.0;80.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;166.0;166.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;73.0;73.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;37.0;37.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;225.0;225.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;48.0;48.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;91.0;91.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;12.0;12.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2023;-;;-;-;;-;-;44.0;44.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;116.0;116.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;34.0;34.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;1060.0;1060.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;143.0;143.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;162.0;162.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;230.0;230.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;89.0;89.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;48.0;48.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;273.0;273.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;114.0;114.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;133.0;133.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;12.0;12.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;7;NB_STRUCTURES;2024;-;;-;-;;-;-;87.0;87.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;58.0;58.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;28.0;28.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;622.0;622.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;100.0;100.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;142.0;142.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;86.0;86.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;142.0;142.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;85.0;85.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;54.0;54.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;64.0;64.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;54.0;54.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;18.0;18.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2015;-;;-;-;;-;-;40.0;40.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;71.0;71.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;31.0;31.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;978.0;978.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;122.0;122.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;120.0;120.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;138.0;138.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;30.0;30.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;69.0;69.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;242.0;242.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;82.0;82.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;77.0;77.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;14.0;14.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2016;-;;-;-;;-;-;43.0;43.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;95.0;95.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;38.0;38.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;1551.0;1551.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;146.0;146.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;150.0;150.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;96.0;96.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;48.0;48.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;66.0;66.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;205.0;205.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;96.0;96.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;114.0;114.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;10.0;10.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2017;-;;-;-;;-;-;42.0;42.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;86.0;86.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;39.0;39.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;1948.0;1948.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;139.0;139.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;161.0;161.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;195.0;195.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;83.0;83.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;81.0;81.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;243.0;243.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;90.0;90.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;111.0;111.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;44.0;44.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2018;-;;-;-;;-;-;51.0;51.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;95.0;95.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;54.0;54.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;2268.0;2268.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;201.0;201.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;157.0;157.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;242.0;242.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;111.0;111.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;92.0;92.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;344.0;344.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;88.0;88.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;129.0;129.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;44.0;44.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2019;-;;-;-;;-;-;58.0;58.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;114.0;114.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;62.0;62.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;2346.0;2346.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;213.0;213.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;199.0;199.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;301.0;301.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;111.0;111.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;77.0;77.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;427.0;427.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;107.0;107.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;122.0;122.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;27.0;27.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2020;-;;-;-;;-;-;68.0;68.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;105.0;105.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;80.0;80.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;2506.0;2506.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;236.0;236.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;198.0;198.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;254.0;254.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;106.0;106.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;80.0;80.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;381.0;381.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;112.0;112.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;155.0;155.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;26.0;26.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2021;-;;-;-;;-;-;84.0;84.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;85.0;85.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;86.0;86.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;2785.0;2785.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;233.0;233.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;164.0;164.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;312.0;312.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;121.0;121.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;71.0;71.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;423.0;423.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;118.0;118.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;165.0;165.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;20.0;20.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2022;-;;-;-;;-;-;106.0;106.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;101.0;101.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;102.0;102.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;2887.0;2887.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;284.0;284.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;146.0;146.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;398.0;398.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;141.0;141.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;96.0;96.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;529.0;529.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;120.0;120.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;222.0;222.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;36.0;36.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2023;-;;-;-;;-;-;120.0;120.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;193.0;193.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;96.0;96.0;somme_statut_vs_total;0.0;CASCADES;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;2877.0;2877.0;somme_statut_vs_total;0.0;CENTRE;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;310.0;310.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;305.0;305.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;460.0;460.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;155.0;155.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;104.0;104.0;somme_statut_vs_total;0.0;EST;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;630.0;630.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;208.0;208.0;somme_statut_vs_total;0.0;NORD;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;268.0;268.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;36.0;36.0;somme_statut_vs_total;0.0;SAHEL;;;;
+prescolaire;8;SALLES_CLASSE;2024;-;;-;-;;-;-;170.0;170.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;1;EFFECTIFS;2015;Filles;;-;-;-;-;-;1395243.0;1395243.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2015;Garcons;;-;-;-;-;-;1477806.0;1477806.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2015;Total;;-;-;-;-;-;2873049.0;2873049.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2016;Filles;;-;-;-;-;-;1482275.0;1482275.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2016;Garcons;;-;-;-;-;-;1558527.0;1558527.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2016;Total;;-;-;-;-;-;3040802.0;3040802.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2017;Filles;;-;-;-;-;-;1561817.0;1561817.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2017;Garcons;;-;-;-;-;-;1644202.0;1644202.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2017;Total;;-;-;-;-;-;3206019.0;3206019.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2018;Filles;;-;-;-;-;-;1584455.0;1584455.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2018;Garcons;;-;-;-;-;-;1649329.0;1649329.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2018;Total;;-;-;-;-;-;3233784.0;3233784.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2019;Filles;;-;-;-;-;-;1599131.0;1599131.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2019;Garcons;;-;-;-;-;-;1641216.0;1641216.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2019;Total;;-;-;-;-;-;3240347.0;3240347.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2020;Filles;;-;-;-;-;-;1629897.0;1629897.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2020;Garcons;;-;-;-;-;-;1659839.0;1659839.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2020;Total;;-;-;-;-;-;3289736.0;3289736.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2021;Filles;;-;-;-;-;-;1581485.0;1581485.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2021;Garcons;;-;-;-;-;-;1593461.0;1593461.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2021;Total;;-;-;-;-;-;3174946.0;3174946.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2022;Filles;;-;-;-;-;-;1419282.0;1419282.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2022;Garcons;;-;-;-;-;-;1416262.0;1416262.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2022;Total;;-;-;-;-;-;2835544.0;2835544.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2023;Filles;;-;-;-;-;-;1532444.0;1532444.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2023;Garcons;;-;-;-;-;-;1535496.0;1535496.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2023;Total;;-;-;-;-;-;3067940.0;3067940.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2024;Filles;;-;-;-;-;-;1642537.0;1642537.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2024;Garcons;;-;-;-;-;-;1665559.0;1665559.0;somme_region_vs_total;0.0;;;;;
+primaire;1;EFFECTIFS;2024;Total;;-;-;-;-;-;3308096.0;3308096.0;somme_region_vs_total;0.0;;;;;
+primaire;2;EFFECTIFS;2015;Filles;;-;-;;-;-;1395243.0;1395243.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2015;Garcons;;-;-;;-;-;1477806.0;1477806.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2015;Total;;-;-;;-;-;2873049.0;2873049.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2016;Filles;;-;-;;-;-;1482275.0;1482275.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2016;Garcons;;-;-;;-;-;1558527.0;1558527.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2016;Total;;-;-;;-;-;3040802.0;3040802.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2017;Filles;;-;-;;-;-;1561817.0;1561817.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2017;Garcons;;-;-;;-;-;1644202.0;1644202.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2017;Total;;-;-;;-;-;3206019.0;3206019.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2018;Filles;;-;-;;-;-;1584455.0;1584455.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2018;Garcons;;-;-;;-;-;1649329.0;1649329.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2018;Total;;-;-;;-;-;3233784.0;3233784.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2019;Filles;;-;-;;-;-;1599131.0;1599131.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2019;Garcons;;-;-;;-;-;1641216.0;1641216.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2019;Total;;-;-;;-;-;3240347.0;3240347.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2020;Filles;;-;-;;-;-;1629897.0;1629897.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2020;Garcons;;-;-;;-;-;1659839.0;1659839.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2020;Total;;-;-;;-;-;3289736.0;3289736.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2021;Filles;;-;-;;-;-;1581485.0;1581485.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2021;Garcons;;-;-;;-;-;1593461.0;1593461.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2021;Total;;-;-;;-;-;3174946.0;3174946.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2022;Filles;;-;-;;-;-;1419282.0;1419282.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2022;Garcons;;-;-;;-;-;1416262.0;1416262.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2022;Total;;-;-;;-;-;2835544.0;2835544.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2023;Filles;;-;-;;-;-;1532444.0;1532444.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2023;Garcons;;-;-;;-;-;1535496.0;1535496.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2023;Total;;-;-;;-;-;3067940.0;3067940.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2024;Filles;;-;-;;-;-;1642537.0;1642537.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2024;Garcons;;-;-;;-;-;1665559.0;1665559.0;somme_statut_vs_total;0.0;-;;;;
+primaire;2;EFFECTIFS;2024;Total;;-;-;;-;-;3308096.0;3308096.0;somme_statut_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2015;Filles;;-;-;-;;-;1395243.0;1395243.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2015;Garcons;;-;-;-;;-;1477806.0;1477806.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2015;Total;;-;-;-;;-;2873049.0;2873049.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2016;Filles;;-;-;-;;-;1482275.0;1482275.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2016;Garcons;;-;-;-;;-;1558527.0;1558527.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2016;Total;;-;-;-;;-;3040802.0;3040802.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2017;Filles;;-;-;-;;-;1561817.0;1561817.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2017;Garcons;;-;-;-;;-;1644202.0;1644202.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2017;Total;;-;-;-;;-;3206019.0;3206019.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2018;Filles;;-;-;-;;-;1584455.0;1584455.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2018;Garcons;;-;-;-;;-;1649329.0;1649329.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2018;Total;;-;-;-;;-;3233784.0;3233784.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2019;Filles;;-;-;-;;-;1599131.0;1599131.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2019;Garcons;;-;-;-;;-;1641216.0;1641216.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2019;Total;;-;-;-;;-;3240347.0;3240347.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2020;Filles;;-;-;-;;-;1629897.0;1629897.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2020;Garcons;;-;-;-;;-;1659839.0;1659839.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2020;Total;;-;-;-;;-;3289736.0;3289736.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2021;Filles;;-;-;-;;-;1581485.0;1581485.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2021;Garcons;;-;-;-;;-;1593461.0;1593461.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2021;Total;;-;-;-;;-;3174946.0;3174946.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2022;Filles;;-;-;-;;-;1419282.0;1419282.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2022;Garcons;;-;-;-;;-;1416262.0;1416262.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2022;Total;;-;-;-;;-;2835544.0;2835544.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2023;Filles;;-;-;-;;-;1532444.0;1532444.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2023;Garcons;;-;-;-;;-;1535496.0;1535496.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2023;Total;;-;-;-;;-;3067940.0;3067940.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2024;Filles;;-;-;-;;-;1642537.0;1642537.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2024;Garcons;;-;-;-;;-;1665559.0;1665559.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;3;EFFECTIFS;2024;Total;;-;-;-;;-;3308096.0;3308096.0;somme_milieu_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2015;Filles;;-;-;PRIVE;-;;265415.0;265415.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2015;Filles;;-;-;PUBLIC;-;;1129828.0;1129828.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2015;Garcons;;-;-;PRIVE;-;;293564.0;293564.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2015;Garcons;;-;-;PUBLIC;-;;1184242.0;1184242.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2015;Total;;-;-;PRIVE;-;;558979.0;558979.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2015;Total;;-;-;PUBLIC;-;;2314070.0;2314070.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2016;Filles;;-;-;PRIVE;-;;291768.0;291768.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2016;Filles;;-;-;PUBLIC;-;;1190507.0;1190507.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2016;Garcons;;-;-;PRIVE;-;;319224.0;319224.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2016;Garcons;;-;-;PUBLIC;-;;1239303.0;1239303.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2016;Total;;-;-;PRIVE;-;;610992.0;610992.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2016;Total;;-;-;PUBLIC;-;;2429810.0;2429810.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2017;Filles;;-;-;PRIVE;-;;311321.0;311321.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2017;Filles;;-;-;PUBLIC;-;;1250496.0;1250496.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2017;Garcons;;-;-;PRIVE;-;;339353.0;339353.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2017;Garcons;;-;-;PUBLIC;-;;1304849.0;1304849.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2017;Total;;-;-;PRIVE;-;;650674.0;650674.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2017;Total;;-;-;PUBLIC;-;;2555345.0;2555345.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2018;Filles;;-;-;PRIVE;-;;333889.0;333889.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2018;Filles;;-;-;PUBLIC;-;;1250566.0;1250566.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2018;Garcons;;-;-;PRIVE;-;;360947.0;360947.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2018;Garcons;;-;-;PUBLIC;-;;1288382.0;1288382.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2018;Total;;-;-;PRIVE;-;;694836.0;694836.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2018;Total;;-;-;PUBLIC;-;;2538948.0;2538948.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2019;Filles;;-;-;PRIVE;-;;365902.0;365902.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2019;Filles;;-;-;PUBLIC;-;;1233229.0;1233229.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2019;Garcons;;-;-;PRIVE;-;;391909.0;391909.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2019;Garcons;;-;-;PUBLIC;-;;1249307.0;1249307.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2019;Total;;-;-;PRIVE;-;;757811.0;757811.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2019;Total;;-;-;PUBLIC;-;;2482536.0;2482536.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2020;Filles;;-;-;PRIVE;-;;390117.0;390117.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2020;Filles;;-;-;PUBLIC;-;;1239780.0;1239780.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2020;Garcons;;-;-;PRIVE;-;;412827.0;412827.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2020;Garcons;;-;-;PUBLIC;-;;1247012.0;1247012.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2020;Total;;-;-;PRIVE;-;;802944.0;802944.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2020;Total;;-;-;PUBLIC;-;;2486792.0;2486792.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2021;Filles;;-;-;PRIVE;-;;407626.0;407626.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2021;Filles;;-;-;PUBLIC;-;;1173859.0;1173859.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2021;Garcons;;-;-;PRIVE;-;;428560.0;428560.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2021;Garcons;;-;-;PUBLIC;-;;1164901.0;1164901.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2021;Total;;-;-;PRIVE;-;;836186.0;836186.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2021;Total;;-;-;PUBLIC;-;;2338760.0;2338760.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2022;Filles;;-;-;PRIVE;-;;410391.0;410391.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2022;Filles;;-;-;PUBLIC;-;;1008891.0;1008891.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2022;Garcons;;-;-;PRIVE;-;;431335.0;431335.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2022;Garcons;;-;-;PUBLIC;-;;984927.0;984927.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2022;Total;;-;-;PRIVE;-;;841726.0;841726.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2022;Total;;-;-;PUBLIC;-;;1993818.0;1993818.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2023;Filles;;-;-;PRIVE;-;;422390.0;422390.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2023;Filles;;-;-;PUBLIC;-;;1110054.0;1110054.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2023;Garcons;;-;-;PRIVE;-;;442156.0;442156.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2023;Garcons;;-;-;PUBLIC;-;;1093340.0;1093340.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2023;Total;;-;-;PRIVE;-;;864546.0;864546.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2023;Total;;-;-;PUBLIC;-;;2203394.0;2203394.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2024;Filles;;-;-;PRIVE;-;;447607.0;447607.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2024;Filles;;-;-;PUBLIC;-;;1194930.0;1194930.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2024;Garcons;;-;-;PRIVE;-;;469144.0;469144.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2024;Garcons;;-;-;PUBLIC;-;;1196415.0;1196415.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2024;Total;;-;-;PRIVE;-;;916751.0;916751.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;4;EFFECTIFS;2024;Total;;-;-;PUBLIC;-;;2391345.0;2391345.0;somme_niveau_etudes_vs_total;0.0;-;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;Filles;;-;-;-;-;-;288775.0;288775.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;Garcons;;-;-;-;-;-;316310.0;316310.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;Total;;-;-;-;-;-;605085.0;605085.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;Filles;;-;-;-;-;-;303849.0;303849.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;Garcons;;-;-;-;-;-;330699.0;330699.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;Total;;-;-;-;-;-;634548.0;634548.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;Filles;;-;-;-;-;-;316531.0;316531.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;Garcons;;-;-;-;-;-;345047.0;345047.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;Total;;-;-;-;-;-;661578.0;661578.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;Filles;;-;-;-;-;-;301518.0;301518.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;Garcons;;-;-;-;-;-;330599.0;330599.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;Total;;-;-;-;-;-;632117.0;632117.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;Filles;;-;-;-;-;-;300790.0;300790.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;Garcons;;-;-;-;-;-;324799.0;324799.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;Total;;-;-;-;-;-;625589.0;625589.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;Filles;;-;-;-;-;-;315824.0;315824.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;Garcons;;-;-;-;-;-;339625.0;339625.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;Total;;-;-;-;-;-;655449.0;655449.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;Filles;;-;-;-;-;-;305841.0;305841.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;Garcons;;-;-;-;-;-;329916.0;329916.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;Total;;-;-;-;-;-;635757.0;635757.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;Filles;;-;-;-;-;-;280628.0;280628.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;Garcons;;-;-;-;-;-;300893.0;300893.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;Total;;-;-;-;-;-;581521.0;581521.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;Filles;;-;-;-;-;-;340870.0;340870.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;Garcons;;-;-;-;-;-;366387.0;366387.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;Total;;-;-;-;-;-;707257.0;707257.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;Filles;;-;-;-;-;-;370837.0;370837.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;Garcons;;-;-;-;-;-;398103.0;398103.0;somme_region_vs_total;0.0;;;;;
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;Total;;-;-;-;-;-;768940.0;768940.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;PRIVE;-;-;3363.0;3363.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;PUBLIC;-;-;11292.0;11292.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;PRIVE;-;-;3792.0;3792.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;PUBLIC;-;-;11538.0;11538.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;PRIVE;-;-;3985.0;3985.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;PUBLIC;-;-;11771.0;11771.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;PRIVE;-;-;4079.0;4079.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;PUBLIC;-;-;11266.0;11266.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;PRIVE;-;-;4233.0;4233.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;PUBLIC;-;-;10630.0;10630.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;PRIVE;-;-;4540.0;4540.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;PUBLIC;-;-;10537.0;10537.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;PRIVE;-;-;4559.0;4559.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;PUBLIC;-;-;9868.0;9868.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;PRIVE;-;-;4461.0;4461.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;PUBLIC;-;-;8319.0;8319.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;PRIVE;-;-;4513.0;4513.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;PUBLIC;-;-;9045.0;9045.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;PRIVE;-;-;4750.0;4750.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;PUBLIC;-;-;9526.0;9526.0;somme_region_vs_total;0.0;;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1281.0;1281.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;621.0;621.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1688.0;1688.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1164.0;1164.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1228.0;1228.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1257.0;1257.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;642.0;642.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1180.0;1180.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1353.0;1353.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;1509.0;1509.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;899.0;899.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;987.0;987.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2015;-;;-;-;;-;-;846.0;846.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1340.0;1340.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;646.0;646.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1817.0;1817.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1192.0;1192.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1315.0;1315.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1287.0;1287.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;651.0;651.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1229.0;1229.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1430.0;1430.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1595.0;1595.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;955.0;955.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;1013.0;1013.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2016;-;;-;-;;-;-;860.0;860.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1382.0;1382.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;658.0;658.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1850.0;1850.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1217.0;1217.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1375.0;1375.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1283.0;1283.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;670.0;670.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1267.0;1267.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1538.0;1538.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1654.0;1654.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;967.0;967.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;1037.0;1037.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2017;-;;-;-;;-;-;858.0;858.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1438.0;1438.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;673.0;673.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1948.0;1948.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1193.0;1193.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1375.0;1375.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1326.0;1326.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;706.0;706.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1135.0;1135.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1610.0;1610.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;1591.0;1591.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;969.0;969.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;520.0;520.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2018;-;;-;-;;-;-;861.0;861.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;1260.0;1260.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;686.0;686.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;2030.0;2030.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;1209.0;1209.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;1079.0;1079.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;1348.0;1348.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;734.0;734.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;988.0;988.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;1670.0;1670.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;1566.0;1566.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;1009.0;1009.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;421.0;421.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2019;-;;-;-;;-;-;863.0;863.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;1373.0;1373.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;714.0;714.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;2039.0;2039.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;1255.0;1255.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;1180.0;1180.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;1370.0;1370.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;751.0;751.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;878.0;878.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;1725.0;1725.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;1622.0;1622.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;1022.0;1022.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;242.0;242.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2020;-;;-;-;;-;-;906.0;906.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;1111.0;1111.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;674.0;674.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;2070.0;2070.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;1289.0;1289.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;1171.0;1171.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;1381.0;1381.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;761.0;761.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;582.0;582.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;1807.0;1807.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;1523.0;1523.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;1051.0;1051.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;161.0;161.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2021;-;;-;-;;-;-;846.0;846.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;658.0;658.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;624.0;624.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;2177.0;2177.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;1098.0;1098.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;822.0;822.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;1337.0;1337.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;766.0;766.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;406.0;406.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;1593.0;1593.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;1280.0;1280.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;1093.0;1093.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;100.0;100.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2022;-;;-;-;;-;-;826.0;826.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;819.0;819.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;593.0;593.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;2267.0;2267.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;1109.0;1109.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;801.0;801.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;1421.0;1421.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;776.0;776.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;521.0;521.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;1694.0;1694.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;1462.0;1462.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;1067.0;1067.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;170.0;170.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2023;-;;-;-;;-;-;858.0;858.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;954.0;954.0;somme_statut_vs_total;0.0;BOUCLE DU MOUHOUN;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;705.0;705.0;somme_statut_vs_total;0.0;CASCADES;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;2397.0;2397.0;somme_statut_vs_total;0.0;CENTRE;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;1143.0;1143.0;somme_statut_vs_total;0.0;CENTRE EST;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;868.0;868.0;somme_statut_vs_total;0.0;CENTRE NORD;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;1479.0;1479.0;somme_statut_vs_total;0.0;CENTRE OUEST;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;796.0;796.0;somme_statut_vs_total;0.0;CENTRE SUD;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;516.0;516.0;somme_statut_vs_total;0.0;EST;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;1722.0;1722.0;somme_statut_vs_total;0.0;HAUTS BASSINS;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;1546.0;1546.0;somme_statut_vs_total;0.0;NORD;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;1086.0;1086.0;somme_statut_vs_total;0.0;PLATEAU CENTRAL;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;187.0;187.0;somme_statut_vs_total;0.0;SAHEL;;;;
+primaire;13;NB_ECOLES;2024;-;;-;-;;-;-;877.0;877.0;somme_statut_vs_total;0.0;SUD OUEST;;;;
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1155.0;1177.0;2332.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;705.0;788.0;1493.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;9202.0;9655.0;18857.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;1961.0;2148.0;4109.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;2628.0;2528.0;5156.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;1790.0;1837.0;3627.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;1196.0;1239.0;2435.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1665.0;1574.0;3239.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;3509.0;3745.0;7254.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;26997.0;28006.0;55003.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;1120.0;1237.0;2357.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;973.0;914.0;1887.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;353.0;393.0;746.0
+prescolaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;740.0;771.0;1511.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1146.0;1271.0;2417.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;791.0;822.0;1613.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;13967.0;14648.0;28615.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;2363.0;2495.0;4858.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;2884.0;2804.0;5688.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;2396.0;2529.0;4925.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;468.0;457.0;925.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1178.0;1212.0;2390.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;4049.0;4300.0;8349.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;33154.0;34579.0;67733.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;1279.0;1367.0;2646.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;1379.0;1339.0;2718.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;343.0;388.0;731.0
+prescolaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;911.0;947.0;1858.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1441.0;1437.0;2878.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;863.0;869.0;1732.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;20271.0;21467.0;41738.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;2666.0;2881.0;5547.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;3287.0;3215.0;6502.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;1801.0;1783.0;3584.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;696.0;732.0;1428.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;992.0;1088.0;2080.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;3767.0;3920.0;7687.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;40086.0;41845.0;81931.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;1484.0;1597.0;3081.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;1695.0;1727.0;3422.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;313.0;351.0;664.0
+prescolaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;810.0;778.0;1588.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1608.0;1621.0;3229.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;964.0;971.0;1935.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;24386.0;25561.0;49947.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;3046.0;3386.0;6432.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;4656.0;4648.0;9304.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;3814.0;3988.0;7802.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;1908.0;1867.0;3775.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1303.0;1382.0;2685.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;4415.0;4536.0;8951.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;51729.0;53756.0;105485.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;1763.0;1899.0;3662.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;1750.0;1691.0;3441.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;1184.0;1282.0;2466.0
+prescolaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;932.0;924.0;1856.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1677.0;1674.0;3351.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;1165.0;1190.0;2355.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;29005.0;30373.0;59378.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;4398.0;4664.0;9062.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;3722.0;3607.0;7329.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;5017.0;4998.0;10015.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;2344.0;2178.0;4522.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1655.0;1559.0;3214.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;5627.0;5852.0;11479.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;61096.0;62910.0;124006.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;1841.0;1951.0;3792.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;2333.0;2396.0;4729.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;1204.0;1332.0;2536.0
+prescolaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;1108.0;1136.0;2244.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;2104.0;2064.0;4168.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;1281.0;1311.0;2592.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;29741.0;30706.0;60447.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;4553.0;4900.0;9453.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;4851.0;4616.0;9467.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;5549.0;5444.0;10993.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;2215.0;2292.0;4507.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1232.0;1294.0;2526.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;6567.0;6953.0;13520.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;64282.0;66129.0;130411.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;2061.0;2131.0;4192.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;2253.0;2436.0;4689.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;624.0;668.0;1292.0
+prescolaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;1251.0;1314.0;2565.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1889.0;1969.0;3858.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;1627.0;1538.0;3165.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;32846.0;34485.0;67331.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;5089.0;5396.0;10485.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;4888.0;4655.0;9543.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;5135.0;5299.0;10434.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;2170.0;2289.0;4459.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1267.0;1317.0;2584.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;6250.0;6680.0;12930.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;67953.0;70715.0;138668.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;2139.0;2265.0;4404.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;2345.0;2553.0;4898.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;849.0;802.0;1651.0
+prescolaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;1459.0;1467.0;2926.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1862.0;1861.0;3723.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;1662.0;1627.0;3289.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;35400.0;36939.0;72339.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;4882.0;5025.0;9907.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;3159.0;3159.0;6318.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;5503.0;5507.0;11010.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;2242.0;2210.0;4452.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1257.0;1416.0;2673.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;6926.0;7410.0;14336.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;69908.0;72396.0;142304.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;2132.0;2260.0;4392.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;2683.0;2714.0;5397.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;487.0;508.0;995.0
+prescolaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;1713.0;1760.0;3473.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;1985.0;2076.0;4061.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;1684.0;1759.0;3443.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;36137.0;37295.0;73432.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;5886.0;6024.0;11910.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;3564.0;3478.0;7042.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;6115.0;6276.0;12391.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;2555.0;2543.0;5098.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;1558.0;1671.0;3229.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;8321.0;8821.0;17142.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;75598.0;78072.0;153670.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;2065.0;2221.0;4286.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;3109.0;3110.0;6219.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;771.0;904.0;1675.0
+prescolaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;1848.0;1894.0;3742.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;5609.0;5870.0;11479.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;1550.0;1714.0;3264.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;35290.0;36561.0;71851.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;6629.0;6899.0;13528.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;6825.0;6467.0;13292.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;8214.0;8337.0;16551.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;2953.0;2908.0;5861.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;2816.0;3096.0;5912.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;9140.0;9632.0;18772.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;93667.0;96823.0;190490.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;5475.0;5830.0;11305.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;4558.0;4692.0;9250.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;896.0;871.0;1767.0
+prescolaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;3712.0;3946.0;7658.0
+prescolaire;2;EFFECTIFS;2015;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;6287.0;6027.0;12314.0
+prescolaire;2;EFFECTIFS;2015;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;26997.0;28006.0;55003.0
+prescolaire;2;EFFECTIFS;2015;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;13922.0;14728.0;28650.0
+prescolaire;2;EFFECTIFS;2015;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;6788.0;7251.0;14039.0
+prescolaire;2;EFFECTIFS;2016;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;4654.0;4458.0;9112.0
+prescolaire;2;EFFECTIFS;2016;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;33154.0;34579.0;67733.0
+prescolaire;2;EFFECTIFS;2016;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;19434.0;20448.0;39882.0
+prescolaire;2;EFFECTIFS;2016;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;9066.0;9673.0;18739.0
+prescolaire;2;EFFECTIFS;2017;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;5331.0;5166.0;10497.0
+prescolaire;2;EFFECTIFS;2017;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;40086.0;41845.0;81931.0
+prescolaire;2;EFFECTIFS;2017;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;25083.0;26271.0;51354.0
+prescolaire;2;EFFECTIFS;2017;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;9672.0;10408.0;20080.0
+prescolaire;2;EFFECTIFS;2018;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;10057.0;9995.0;20052.0
+prescolaire;2;EFFECTIFS;2018;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;51729.0;53756.0;105485.0
+prescolaire;2;EFFECTIFS;2018;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;30814.0;32319.0;63133.0
+prescolaire;2;EFFECTIFS;2018;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;10858.0;11442.0;22300.0
+prescolaire;2;EFFECTIFS;2019;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;10934.0;10528.0;21462.0
+prescolaire;2;EFFECTIFS;2019;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;61096.0;62910.0;124006.0
+prescolaire;2;EFFECTIFS;2019;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;38426.0;40238.0;78664.0
+prescolaire;2;EFFECTIFS;2019;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;11736.0;12144.0;23880.0
+prescolaire;2;EFFECTIFS;2020;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;10487.0;9887.0;20374.0
+prescolaire;2;EFFECTIFS;2020;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;64282.0;66129.0;130411.0
+prescolaire;2;EFFECTIFS;2020;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;41212.0;43031.0;84243.0
+prescolaire;2;EFFECTIFS;2020;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;12583.0;13211.0;25794.0
+prescolaire;2;EFFECTIFS;2021;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;10484.0;9960.0;20444.0
+prescolaire;2;EFFECTIFS;2021;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;67953.0;70715.0;138668.0
+prescolaire;2;EFFECTIFS;2021;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;43721.0;46138.0;89859.0
+prescolaire;2;EFFECTIFS;2021;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;13748.0;14617.0;28365.0
+prescolaire;2;EFFECTIFS;2022;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;9482.0;8977.0;18459.0
+prescolaire;2;EFFECTIFS;2022;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;69908.0;72396.0;142304.0
+prescolaire;2;EFFECTIFS;2022;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;45725.0;48047.0;93772.0
+prescolaire;2;EFFECTIFS;2022;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;14701.0;15372.0;30073.0
+prescolaire;2;EFFECTIFS;2023;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;10830.0;10105.0;20935.0
+prescolaire;2;EFFECTIFS;2023;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;75598.0;78072.0;153670.0
+prescolaire;2;EFFECTIFS;2023;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;49440.0;51698.0;101138.0
+prescolaire;2;EFFECTIFS;2023;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;15328.0;16269.0;31597.0
+prescolaire;2;EFFECTIFS;2024;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;11296.0;10395.0;21691.0
+prescolaire;2;EFFECTIFS;2024;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;93667.0;96823.0;190490.0
+prescolaire;2;EFFECTIFS;2024;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;48243.0;50464.0;98707.0
+prescolaire;2;EFFECTIFS;2024;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;34128.0;35964.0;70092.0
+prescolaire;3;EFFECTIFS;2017;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;40086.0;41845.0;81931.0
+prescolaire;3;EFFECTIFS;2017;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;9313.0;9366.0;18679.0
+prescolaire;3;EFFECTIFS;2017;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;30773.0;32479.0;63252.0
+prescolaire;3;EFFECTIFS;2018;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;51729.0;53756.0;105485.0
+prescolaire;3;EFFECTIFS;2018;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;14570.0;14667.0;29237.0
+prescolaire;3;EFFECTIFS;2018;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;37159.0;39089.0;76248.0
+prescolaire;3;EFFECTIFS;2019;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;61096.0;62910.0;124006.0
+prescolaire;3;EFFECTIFS;2019;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;16775.0;16539.0;33314.0
+prescolaire;3;EFFECTIFS;2019;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;44321.0;46371.0;90692.0
+prescolaire;3;EFFECTIFS;2020;;;-;-;-;INDETERMINE;-;;;filles_plus_garcons_vs_total;0.0;-;detail;571.0;615.0;1186.0
+prescolaire;3;EFFECTIFS;2020;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;64282.0;66129.0;130411.0
+prescolaire;3;EFFECTIFS;2020;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;17083.0;16865.0;33948.0
+prescolaire;3;EFFECTIFS;2020;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;46628.0;48649.0;95277.0
+prescolaire;3;EFFECTIFS;2021;;;-;-;-;INDETERMINE;-;;;filles_plus_garcons_vs_total;0.0;-;detail;478.0;497.0;975.0
+prescolaire;3;EFFECTIFS;2021;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;67953.0;70715.0;138668.0
+prescolaire;3;EFFECTIFS;2021;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;17891.0;17964.0;35855.0
+prescolaire;3;EFFECTIFS;2021;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;49584.0;52254.0;101838.0
+prescolaire;3;EFFECTIFS;2022;;;-;-;-;INDETERMINE;-;;;filles_plus_garcons_vs_total;0.0;-;detail;728.0;813.0;1541.0
+prescolaire;3;EFFECTIFS;2022;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;69908.0;72396.0;142304.0
+prescolaire;3;EFFECTIFS;2022;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;16826.0;16764.0;33590.0
+prescolaire;3;EFFECTIFS;2022;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;52354.0;54819.0;107173.0
+prescolaire;3;EFFECTIFS;2023;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;75598.0;78072.0;153670.0
+prescolaire;3;EFFECTIFS;2023;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;20048.0;19875.0;39923.0
+prescolaire;3;EFFECTIFS;2023;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;55550.0;58197.0;113747.0
+prescolaire;3;EFFECTIFS;2024;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;93667.0;96823.0;190490.0
+prescolaire;3;EFFECTIFS;2024;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;36171.0;36592.0;72763.0
+prescolaire;3;EFFECTIFS;2024;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;57496.0;60231.0;117727.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;6287.0;6027.0;12314.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1780.0;1715.0;3495.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1626.0;1603.0;3229.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;2881.0;2709.0;5590.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;26997.0;28006.0;55003.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;13922.0;14728.0;28650.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3999.0;4251.0;8250.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4771.0;5080.0;9851.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;5152.0;5397.0;10549.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;6788.0;7251.0;14039.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1855.0;1960.0;3815.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;2696.0;2900.0;5596.0
+prescolaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;2237.0;2391.0;4628.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;4654.0;4458.0;9112.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1620.0;1593.0;3213.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1554.0;1494.0;3048.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1480.0;1371.0;2851.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;33154.0;34579.0;67733.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;19434.0;20448.0;39882.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;5680.0;5972.0;11652.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;6886.0;7381.0;14267.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;6868.0;7095.0;13963.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;9066.0;9673.0;18739.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;2482.0;2636.0;5118.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3776.0;4031.0;7807.0
+prescolaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;2808.0;3006.0;5814.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;5331.0;5166.0;10497.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1606.0;1510.0;3116.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;1664.0;1609.0;3273.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;2061.0;2047.0;4108.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;40086.0;41845.0;81931.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;25083.0;26271.0;51354.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;7389.0;7768.0;15157.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;8824.0;9174.0;17998.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;8870.0;9329.0;18199.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;9672.0;10408.0;20080.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;2779.0;3050.0;5829.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3843.0;4145.0;7988.0
+prescolaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3050.0;3213.0;6263.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;10057.0;9995.0;20052.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3273.0;3354.0;6627.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3131.0;3088.0;6219.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3653.0;3553.0;7206.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;51729.0;53756.0;105485.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;30814.0;32319.0;63133.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;9260.0;9591.0;18851.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;10964.0;11712.0;22676.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;10590.0;11016.0;21606.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;10858.0;11442.0;22300.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3062.0;3356.0;6418.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4337.0;4631.0;8968.0
+prescolaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3459.0;3455.0;6914.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;10934.0;10528.0;21462.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3711.0;3718.0;7429.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3319.0;3192.0;6511.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3904.0;3618.0;7522.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;61096.0;62910.0;124006.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;38426.0;40238.0;78664.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;11650.0;12399.0;24049.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;13782.0;14190.0;27972.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;12994.0;13649.0;26643.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;11736.0;12144.0;23880.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3463.0;3666.0;7129.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4805.0;4925.0;9730.0
+prescolaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3468.0;3553.0;7021.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;10487.0;9887.0;20374.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3671.0;3492.0;7163.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3219.0;3141.0;6360.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3597.0;3254.0;6851.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;64282.0;66129.0;130411.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;41212.0;43031.0;84243.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;12938.0;13667.0;26605.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;14420.0;15117.0;29537.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;13854.0;14247.0;28101.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;12583.0;13211.0;25794.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3762.0;4044.0;7806.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4892.0;5080.0;9972.0
+prescolaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3929.0;4087.0;8016.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;10484.0;9960.0;20444.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3419.0;3418.0;6837.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3429.0;3192.0;6621.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3636.0;3350.0;6986.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;67953.0;70715.0;138668.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;43721.0;46138.0;89859.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;13578.0;14445.0;28023.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;15544.0;16116.0;31660.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;14599.0;15577.0;30176.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;13748.0;14617.0;28365.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3971.0;4320.0;8291.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;5521.0;5827.0;11348.0
+prescolaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4256.0;4470.0;8726.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;9482.0;8977.0;18459.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3085.0;3049.0;6134.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3035.0;2866.0;5901.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3362.0;3062.0;6424.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;69908.0;72396.0;142304.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;45725.0;48047.0;93772.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;14680.0;15671.0;30351.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;16342.0;17063.0;33405.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;14703.0;15313.0;30016.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;14701.0;15372.0;30073.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4367.0;4758.0;9125.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;5870.0;6073.0;11943.0
+prescolaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4464.0;4541.0;9005.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;10830.0;10105.0;20935.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3557.0;3470.0;7027.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3413.0;3189.0;6602.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3860.0;3446.0;7306.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;75598.0;78072.0;153670.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;49440.0;51698.0;101138.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;15919.0;16874.0;32793.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;17661.0;18175.0;35836.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;15860.0;16649.0;32509.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;15328.0;16269.0;31597.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4686.0;5135.0;9821.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;5979.0;6294.0;12273.0
+prescolaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;4663.0;4840.0;9503.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;COMMUNAUTAIRE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;11296.0;10395.0;21691.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;COMMUNAUTAIRE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3605.0;3408.0;7013.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;COMMUNAUTAIRE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3712.0;3424.0;7136.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;COMMUNAUTAIRE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;3979.0;3563.0;7542.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;93667.0;96823.0;190490.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;48243.0;50464.0;98707.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;15519.0;16354.0;31873.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;17200.0;17899.0;35099.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;15524.0;16211.0;31735.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;34128.0;35964.0;70092.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;GRANDE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;9450.0;9934.0;19384.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;MOYENNE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;10917.0;11369.0;22286.0
+prescolaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;PETITE SECTION;;;filles_plus_garcons_vs_total;0.0;-;detail;13761.0;14661.0;28422.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;131137.0;139360.0;270497.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;51711.0;54887.0;106598.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;207980.0;202978.0;410958.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;114084.0;127125.0;241209.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;107274.0;118276.0;225550.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;138925.0;142796.0;281721.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;68272.0;73601.0;141873.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;86050.0;94170.0;180220.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;159338.0;166110.0;325448.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1395243.0;1477806.0;2873049.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;140620.0;150521.0;291141.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;76351.0;83040.0;159391.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;58450.0;66384.0;124834.0
+primaire;1;EFFECTIFS;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;55051.0;58558.0;113609.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;138922.0;146616.0;285538.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;55501.0;58578.0;114079.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;220449.0;213696.0;434145.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;119357.0;132470.0;251827.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;115733.0;126545.0;242278.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;148777.0;150006.0;298783.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;71297.0;76033.0;147330.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;93356.0;102430.0;195786.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;169429.0;175836.0;345265.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1482275.0;1558527.0;3040802.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;152529.0;161730.0;314259.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;80492.0;87550.0;168042.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;59474.0;66618.0;126092.0
+primaire;1;EFFECTIFS;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;56959.0;60419.0;117378.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;147719.0;155981.0;303700.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;58483.0;62108.0;120591.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;223990.0;217144.0;441134.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;125568.0;140184.0;265752.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;124570.0;136895.0;261465.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;155426.0;155366.0;310792.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;74508.0;78911.0;153419.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;100806.0;111747.0;212553.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;180600.0;187456.0;368056.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1561817.0;1644202.0;3206019.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;162261.0;172014.0;334275.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;84919.0;92481.0;177400.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;62583.0;69754.0;132337.0
+primaire;1;EFFECTIFS;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;60384.0;64161.0;124545.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;154821.0;163245.0;318066.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;62013.0;65390.0;127403.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;239919.0;231829.0;471748.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;124751.0;137386.0;262137.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;128687.0;138920.0;267607.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;161180.0;159554.0;320734.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;76183.0;80543.0;156726.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;99392.0;108545.0;207937.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;190468.0;196976.0;387444.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1584455.0;1649329.0;3233784.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;163852.0;170459.0;334311.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;87468.0;94607.0;182075.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;33491.0;36170.0;69661.0
+primaire;1;EFFECTIFS;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;62230.0;65705.0;127935.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;143969.0;149852.0;293821.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;65591.0;68529.0;134120.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;253456.0;243804.0;497260.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;126439.0;136401.0;262840.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;111618.0;115865.0;227483.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;167846.0;164595.0;332441.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;77578.0;82342.0;159920.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;94517.0;101470.0;195987.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;201619.0;205775.0;407394.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1599131.0;1641216.0;3240347.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;167180.0;171168.0;338348.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;92587.0;98451.0;191038.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;30860.0;33340.0;64200.0
+primaire;1;EFFECTIFS;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;65871.0;69624.0;135495.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;151233.0;156935.0;308168.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;67828.0;70430.0;138258.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;262213.0;251713.0;513926.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;126265.0;135512.0;261777.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;127174.0;131433.0;258607.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;169679.0;165630.0;335309.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;77151.0;81152.0;158303.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;87619.0;91369.0;178988.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;206716.0;210173.0;416889.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1629897.0;1659839.0;3289736.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;168571.0;170272.0;338843.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;91379.0;95918.0;187297.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;26140.0;28174.0;54314.0
+primaire;1;EFFECTIFS;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;67929.0;71128.0;139057.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;129036.0;131704.0;260740.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;63331.0;65810.0;129141.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;272151.0;259330.0;531481.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;126979.0;135827.0;262806.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;126389.0;128893.0;255282.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;168030.0;162600.0;330630.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;75418.0;78944.0;154362.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;65246.0;66516.0;131762.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;213800.0;215178.0;428978.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1581485.0;1593461.0;3174946.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;159603.0;158980.0;318583.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;93515.0;97180.0;190695.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;22506.0;24147.0;46653.0
+primaire;1;EFFECTIFS;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;65481.0;68352.0;133833.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;76989.0;76063.0;153052.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;60804.0;63447.0;124251.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;283841.0;271582.0;555423.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;116111.0;121442.0;237553.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;94271.0;93387.0;187658.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;161621.0;156335.0;317956.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;74132.0;76798.0;150930.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;45287.0;45995.0;91282.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;191749.0;190105.0;381854.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1419282.0;1416262.0;2835544.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;139993.0;138922.0;278915.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;94506.0;97395.0;191901.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;17166.0;18876.0;36042.0
+primaire;1;EFFECTIFS;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;62812.0;65915.0;128727.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;98194.0;98946.0;197140.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;59990.0;61988.0;121978.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;294830.0;284254.0;579084.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;120645.0;126370.0;247015.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;104026.0;104125.0;208151.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;169922.0;163933.0;333855.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;73923.0;77236.0;151159.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;58211.0;60056.0;118267.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;202998.0;202498.0;405496.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1532444.0;1535496.0;3067940.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;160203.0;158029.0;318232.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;97031.0;99799.0;196830.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;26877.0;29573.0;56450.0
+primaire;1;EFFECTIFS;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;65594.0;68689.0;134283.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;119532.0;123879.0;243411.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;65795.0;69755.0;135550.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;307951.0;299604.0;607555.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;130864.0;139801.0;270665.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;117949.0;117805.0;235754.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;174716.0;169963.0;344679.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;75738.0;79074.0;154812.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;64433.0;68307.0;132740.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;209339.0;211522.0;420861.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;1642537.0;1665559.0;3308096.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;177221.0;175687.0;352908.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;99393.0;103173.0;202566.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;29445.0;32954.0;62399.0
+primaire;1;EFFECTIFS;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;70161.0;74035.0;144196.0
+primaire;2;EFFECTIFS;2015;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1395243.0;1477806.0;2873049.0
+primaire;2;EFFECTIFS;2015;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;265415.0;293564.0;558979.0
+primaire;2;EFFECTIFS;2015;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1129828.0;1184242.0;2314070.0
+primaire;2;EFFECTIFS;2016;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1482275.0;1558527.0;3040802.0
+primaire;2;EFFECTIFS;2016;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;291768.0;319224.0;610992.0
+primaire;2;EFFECTIFS;2016;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1190507.0;1239303.0;2429810.0
+primaire;2;EFFECTIFS;2017;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1561817.0;1644202.0;3206019.0
+primaire;2;EFFECTIFS;2017;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;311321.0;339353.0;650674.0
+primaire;2;EFFECTIFS;2017;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1250496.0;1304849.0;2555345.0
+primaire;2;EFFECTIFS;2018;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1584455.0;1649329.0;3233784.0
+primaire;2;EFFECTIFS;2018;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;333889.0;360947.0;694836.0
+primaire;2;EFFECTIFS;2018;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1250566.0;1288382.0;2538948.0
+primaire;2;EFFECTIFS;2019;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1599131.0;1641216.0;3240347.0
+primaire;2;EFFECTIFS;2019;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;365902.0;391909.0;757811.0
+primaire;2;EFFECTIFS;2019;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1233229.0;1249307.0;2482536.0
+primaire;2;EFFECTIFS;2020;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1629897.0;1659839.0;3289736.0
+primaire;2;EFFECTIFS;2020;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;390117.0;412827.0;802944.0
+primaire;2;EFFECTIFS;2020;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1239780.0;1247012.0;2486792.0
+primaire;2;EFFECTIFS;2021;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1581485.0;1593461.0;3174946.0
+primaire;2;EFFECTIFS;2021;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;407626.0;428560.0;836186.0
+primaire;2;EFFECTIFS;2021;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1173859.0;1164901.0;2338760.0
+primaire;2;EFFECTIFS;2022;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1419282.0;1416262.0;2835544.0
+primaire;2;EFFECTIFS;2022;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;410391.0;431335.0;841726.0
+primaire;2;EFFECTIFS;2022;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1008891.0;984927.0;1993818.0
+primaire;2;EFFECTIFS;2023;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1532444.0;1535496.0;3067940.0
+primaire;2;EFFECTIFS;2023;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;422390.0;442156.0;864546.0
+primaire;2;EFFECTIFS;2023;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1110054.0;1093340.0;2203394.0
+primaire;2;EFFECTIFS;2024;;;-;-;NATIONAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;national;1642537.0;1665559.0;3308096.0
+primaire;2;EFFECTIFS;2024;;;-;-;PRIVE;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;447607.0;469144.0;916751.0
+primaire;2;EFFECTIFS;2024;;;-;-;PUBLIC;-;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1194930.0;1196415.0;2391345.0
+primaire;3;EFFECTIFS;2015;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1395243.0;1477806.0;2873049.0
+primaire;3;EFFECTIFS;2015;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1001722.0;1088644.0;2090366.0
+primaire;3;EFFECTIFS;2015;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;393521.0;389162.0;782683.0
+primaire;3;EFFECTIFS;2016;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1482275.0;1558527.0;3040802.0
+primaire;3;EFFECTIFS;2016;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1070860.0;1155446.0;2226306.0
+primaire;3;EFFECTIFS;2016;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;411415.0;403081.0;814496.0
+primaire;3;EFFECTIFS;2017;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1561817.0;1644202.0;3206019.0
+primaire;3;EFFECTIFS;2017;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1142110.0;1232722.0;2374832.0
+primaire;3;EFFECTIFS;2017;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;419707.0;411480.0;831187.0
+primaire;3;EFFECTIFS;2018;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1584455.0;1649329.0;3233784.0
+primaire;3;EFFECTIFS;2018;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1147593.0;1224448.0;2372041.0
+primaire;3;EFFECTIFS;2018;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;436862.0;424881.0;861743.0
+primaire;3;EFFECTIFS;2019;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1599131.0;1641216.0;3240347.0
+primaire;3;EFFECTIFS;2019;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1137402.0;1193830.0;2331232.0
+primaire;3;EFFECTIFS;2019;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;461729.0;447386.0;909115.0
+primaire;3;EFFECTIFS;2020;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1629897.0;1659839.0;3289736.0
+primaire;3;EFFECTIFS;2020;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1145891.0;1189596.0;2335487.0
+primaire;3;EFFECTIFS;2020;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;484006.0;470243.0;954249.0
+primaire;3;EFFECTIFS;2021;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1581485.0;1593461.0;3174946.0
+primaire;3;EFFECTIFS;2021;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1078169.0;1107273.0;2185442.0
+primaire;3;EFFECTIFS;2021;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;503316.0;486188.0;989504.0
+primaire;3;EFFECTIFS;2022;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1419282.0;1416262.0;2835544.0
+primaire;3;EFFECTIFS;2022;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;887920.0;903083.0;1791003.0
+primaire;3;EFFECTIFS;2022;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;531362.0;513179.0;1044541.0
+primaire;3;EFFECTIFS;2023;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1532444.0;1535496.0;3067940.0
+primaire;3;EFFECTIFS;2023;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;953966.0;970383.0;1924349.0
+primaire;3;EFFECTIFS;2023;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;578478.0;565113.0;1143591.0
+primaire;3;EFFECTIFS;2024;;;-;-;-;NATIONAL;-;;;filles_plus_garcons_vs_total;0.0;-;national;1642537.0;1665559.0;3308096.0
+primaire;3;EFFECTIFS;2024;;;-;-;-;RURAL;-;;;filles_plus_garcons_vs_total;0.0;-;detail;1034981.0;1065260.0;2100241.0
+primaire;3;EFFECTIFS;2024;;;-;-;-;URBAIN;-;;;filles_plus_garcons_vs_total;0.0;-;detail;607556.0;600299.0;1207855.0
+primaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;48451.0;55071.0;103522.0
+primaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;38960.0;43886.0;82846.0
+primaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;34338.0;36712.0;71050.0
+primaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;27492.0;28624.0;56116.0
+primaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;61931.0;68283.0;130214.0
+primaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;54243.0;60988.0;115231.0
+primaire;4;EFFECTIFS;2015;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;265415.0;293564.0;558979.0
+primaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;192255.0;209626.0;401881.0
+primaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;176684.0;185773.0;362457.0
+primaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;162941.0;160606.0;323547.0
+primaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;154123.0;141161.0;295284.0
+primaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;230735.0;253218.0;483953.0
+primaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;213090.0;233858.0;446948.0
+primaire;4;EFFECTIFS;2015;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1129828.0;1184242.0;2314070.0
+primaire;4;EFFECTIFS;2015;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1395243.0;1477806.0;2873049.0
+primaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;53018.0;59899.0;112917.0
+primaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;42098.0;45596.0;87694.0
+primaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;37334.0;40454.0;77788.0
+primaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;31679.0;32018.0;63697.0
+primaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;68950.0;75934.0;144884.0
+primaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;58689.0;65323.0;124012.0
+primaire;4;EFFECTIFS;2016;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;291768.0;319224.0;610992.0
+primaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;205356.0;222264.0;427620.0
+primaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;185189.0;194242.0;379431.0
+primaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;172430.0;169967.0;342397.0
+primaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;170319.0;152967.0;323286.0
+primaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;239680.0;261058.0;500738.0
+primaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;217533.0;238805.0;456338.0
+primaire;4;EFFECTIFS;2016;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1190507.0;1239303.0;2429810.0
+primaire;4;EFFECTIFS;2016;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1482275.0;1558527.0;3040802.0
+primaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;56917.0;63438.0;120355.0
+primaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;46740.0;51534.0;98274.0
+primaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;40803.0;43374.0;84177.0
+primaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;32558.0;33544.0;66102.0
+primaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;72406.0;78899.0;151305.0
+primaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;61897.0;68564.0;130461.0
+primaire;4;EFFECTIFS;2017;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;311321.0;339353.0;650674.0
+primaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;213113.0;232283.0;445396.0
+primaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;201739.0;212175.0;413914.0
+primaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;183355.0;181119.0;364474.0
+primaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;174079.0;156858.0;330937.0
+primaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;248434.0;271720.0;520154.0
+primaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;229776.0;250694.0;480470.0
+primaire;4;EFFECTIFS;2017;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1250496.0;1304849.0;2555345.0
+primaire;4;EFFECTIFS;2017;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1561817.0;1644202.0;3206019.0
+primaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;59873.0;66473.0;126346.0
+primaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;49792.0;54126.0;103918.0
+primaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;44653.0;47117.0;91770.0
+primaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;37210.0;36610.0;73820.0
+primaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;76407.0;85015.0;161422.0
+primaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;65954.0;71606.0;137560.0
+primaire;4;EFFECTIFS;2018;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;333889.0;360947.0;694836.0
+primaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;215234.0;231966.0;447200.0
+primaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;201566.0;210005.0;411571.0
+primaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;191353.0;185808.0;377161.0
+primaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;183794.0;160538.0;344332.0
+primaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;229640.0;251377.0;481017.0
+primaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;228979.0;248688.0;477667.0
+primaire;4;EFFECTIFS;2018;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1250566.0;1288382.0;2538948.0
+primaire;4;EFFECTIFS;2018;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1584455.0;1649329.0;3233784.0
+primaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;65869.0;71717.0;137586.0
+primaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;53943.0;57966.0;111909.0
+primaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;48677.0;51041.0;99718.0
+primaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;43285.0;42263.0;85548.0
+primaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;83311.0;90960.0;174271.0
+primaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;70817.0;77962.0;148779.0
+primaire;4;EFFECTIFS;2019;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;365902.0;391909.0;757811.0
+primaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;212690.0;225815.0;438505.0
+primaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;200694.0;205739.0;406433.0
+primaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;189632.0;181456.0;371088.0
+primaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;197359.0;166793.0;364152.0
+primaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;222175.0;239777.0;461952.0
+primaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;210679.0;229727.0;440406.0
+primaire;4;EFFECTIFS;2019;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1233229.0;1249307.0;2482536.0
+primaire;4;EFFECTIFS;2019;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1599131.0;1641216.0;3240347.0
+primaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;69907.0;76045.0;145952.0
+primaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;58703.0;62402.0;121105.0
+primaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;51502.0;52779.0;104281.0
+primaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;44926.0;43997.0;88923.0
+primaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;90047.0;96123.0;186170.0
+primaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;75032.0;81481.0;156513.0
+primaire;4;EFFECTIFS;2020;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;390117.0;412827.0;802944.0
+primaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;202998.0;216265.0;419263.0
+primaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;205713.0;210166.0;415879.0
+primaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;192521.0;182110.0;374631.0
+primaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;199981.0;166075.0;366056.0
+primaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;229618.0;248130.0;477748.0
+primaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;208949.0;224266.0;433215.0
+primaire;4;EFFECTIFS;2020;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1239780.0;1247012.0;2486792.0
+primaire;4;EFFECTIFS;2020;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1629897.0;1659839.0;3289736.0
+primaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;71911.0;77914.0;149825.0
+primaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;60242.0;63647.0;123889.0
+primaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;54442.0;55414.0;109856.0
+primaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;48658.0;46075.0;94733.0
+primaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;92472.0;100029.0;192501.0
+primaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;79901.0;85481.0;165382.0
+primaire;4;EFFECTIFS;2021;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;407626.0;428560.0;836186.0
+primaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;191322.0;202493.0;393815.0
+primaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;185153.0;186654.0;371807.0
+primaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;185256.0;169503.0;354759.0
+primaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;189579.0;152725.0;342304.0
+primaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;216240.0;233435.0;449675.0
+primaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;206309.0;220091.0;426400.0
+primaire;4;EFFECTIFS;2021;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1173859.0;1164901.0;2338760.0
+primaire;4;EFFECTIFS;2021;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1581485.0;1593461.0;3174946.0
+primaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;74616.0;80249.0;154865.0
+primaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;59587.0;63217.0;122804.0
+primaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;55179.0;55751.0;110930.0
+primaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;48942.0;45626.0;94568.0
+primaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;92340.0;100266.0;192606.0
+primaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;79727.0;86226.0;165953.0
+primaire;4;EFFECTIFS;2022;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;410391.0;431335.0;841726.0
+primaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;171355.0;177027.0;348382.0
+primaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;158017.0;154488.0;312505.0
+primaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;154170.0;139247.0;293417.0
+primaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;160494.0;125016.0;285510.0
+primaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;190535.0;203438.0;393973.0
+primaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;174320.0;185711.0;360031.0
+primaire;4;EFFECTIFS;2022;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1008891.0;984927.0;1993818.0
+primaire;4;EFFECTIFS;2022;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1419282.0;1416262.0;2835544.0
+primaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;77170.0;82790.0;159960.0
+primaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;62966.0;65376.0;128342.0
+primaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;55611.0;56361.0;111972.0
+primaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;48183.0;45590.0;93773.0
+primaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;96356.0;103941.0;200297.0
+primaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;82104.0;88098.0;170202.0
+primaire;4;EFFECTIFS;2023;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;422390.0;442156.0;864546.0
+primaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;183192.0;191065.0;374257.0
+primaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;173711.0;168061.0;341772.0
+primaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;157861.0;141195.0;299056.0
+primaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;154693.0;122556.0;277249.0
+primaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;246199.0;264549.0;510748.0
+primaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;194398.0;205914.0;400312.0
+primaire;4;EFFECTIFS;2023;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1110054.0;1093340.0;2203394.0
+primaire;4;EFFECTIFS;2023;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1532444.0;1535496.0;3067940.0
+primaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;82795.0;88432.0;171227.0
+primaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;67584.0;70148.0;137732.0
+primaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;60406.0;61174.0;121580.0
+primaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;46390.0;45168.0;91558.0
+primaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;99837.0;106441.0;206278.0
+primaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;90595.0;97781.0;188376.0
+primaire;4;EFFECTIFS;2024;;;-;-;PRIVE;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;447607.0;469144.0;916751.0
+primaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;CE1;;;filles_plus_garcons_vs_total;0.0;-;detail;197697.0;206941.0;404638.0
+primaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;CE2;;;filles_plus_garcons_vs_total;0.0;-;detail;178523.0;177760.0;356283.0
+primaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;CM1;;;filles_plus_garcons_vs_total;0.0;-;detail;168329.0;151210.0;319539.0
+primaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;CM2;;;filles_plus_garcons_vs_total;0.0;-;detail;145119.0;117595.0;262714.0
+primaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;CP1;;;filles_plus_garcons_vs_total;0.0;-;detail;272425.0;293427.0;565852.0
+primaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;CP2;;;filles_plus_garcons_vs_total;0.0;-;detail;232837.0;249482.0;482319.0
+primaire;4;EFFECTIFS;2024;;;-;-;PUBLIC;-;TOTAL;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1194930.0;1196415.0;2391345.0
+primaire;4;EFFECTIFS;2024;;;-;-;TOTAL;-;-;;;filles_plus_garcons_vs_total;0.0;-;sous_total;1642537.0;1665559.0;3308096.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;26729.0;29391.0;56120.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;10326.0;11413.0;21739.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;38789.0;38697.0;77486.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;23635.0;27163.0;50798.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;22592.0;26518.0;49110.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;27633.0;29544.0;57177.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;11935.0;13316.0;25251.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;19651.0;22166.0;41817.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;32456.0;34600.0;67056.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;288775.0;316310.0;605085.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;29933.0;33363.0;63296.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;15372.0;17736.0;33108.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;17068.0;18926.0;35994.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2015;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;12656.0;13477.0;26133.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;27565.0;29775.0;57340.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;11422.0;12316.0;23738.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;40479.0;40620.0;81099.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;23887.0;27422.0;51309.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;26030.0;29959.0;55989.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;29596.0;30652.0;60248.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;13271.0;14904.0;28175.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;22689.0;25365.0;48054.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;32780.0;35169.0;67949.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;303849.0;330699.0;634548.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;32666.0;36003.0;68669.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;15752.0;18109.0;33861.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;15394.0;16760.0;32154.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2016;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;12318.0;13645.0;25963.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;29738.0;32345.0;62083.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;11335.0;12416.0;23751.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;42280.0;42208.0;84488.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;25795.0;29516.0;55311.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;26449.0;30837.0;57286.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;29769.0;30894.0;60663.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;13259.0;14444.0;27703.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;22025.0;24967.0;46992.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;34921.0;38039.0;72960.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;316531.0;345047.0;661578.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;33700.0;36943.0;70643.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;17430.0;19619.0;37049.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;16465.0;18008.0;34473.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2017;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;13365.0;14811.0;28176.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;29240.0;32411.0;61651.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;11703.0;13059.0;24762.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;43664.0;44089.0;87753.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;23476.0;26970.0;50446.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;25621.0;30055.0;55676.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;28794.0;30365.0;59159.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;12785.0;14488.0;27273.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;20853.0;23031.0;43884.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;35688.0;38687.0;74375.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;301518.0;330599.0;632117.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;32419.0;35630.0;68049.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;16685.0;19464.0;36149.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;8057.0;8545.0;16602.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2018;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;12533.0;13805.0;26338.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;26699.0;29110.0;55809.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;11930.0;13048.0;24978.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;45530.0;45737.0;91267.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;23202.0;26281.0;49483.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;21631.0;24692.0;46323.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;28492.0;30037.0;58529.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;12924.0;14683.0;27607.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;18192.0;19984.0;38176.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;38555.0;40324.0;78879.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;300790.0;324799.0;625589.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;33504.0;36581.0;70085.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;17991.0;20080.0;38071.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;8157.0;8734.0;16891.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2019;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;13983.0;15508.0;29491.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;28521.0;31066.0;59587.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;12408.0;13803.0;26211.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;47996.0;47829.0;95825.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;24760.0;28110.0;52870.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;27797.0;31493.0;59290.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;29876.0;30983.0;60859.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;13488.0;14903.0;28391.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;18398.0;20189.0;38587.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;38445.0;40378.0;78823.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;315824.0;339625.0;655449.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;34394.0;36799.0;71193.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;16865.0;19191.0;36056.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;8331.0;9263.0;17594.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2020;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;14545.0;15618.0;30163.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;24161.0;26273.0;50434.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;11317.0;12851.0;24168.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;50617.0;50676.0;101293.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;26008.0;29758.0;55766.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;27215.0;30415.0;57630.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;29117.0;31156.0;60273.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;13060.0;15048.0;28108.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;13115.0;14244.0;27359.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;39649.0;41772.0;81421.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;305841.0;329916.0;635757.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;32776.0;35056.0;67832.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;18694.0;21106.0;39800.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;6959.0;7295.0;14254.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2021;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;13153.0;14266.0;27419.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;14204.0;15199.0;29403.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;11551.0;12810.0;24361.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;51662.0;52928.0;104590.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;24309.0;26841.0;51150.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;20841.0;22963.0;43804.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;29745.0;31621.0;61366.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;13828.0;15641.0;29469.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;9284.0;9931.0;19215.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;35063.0;36801.0;71864.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;280628.0;300893.0;581521.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;31591.0;33677.0;65268.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;19355.0;21757.0;41112.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;5634.0;6043.0;11677.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2022;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;13561.0;14681.0;28242.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;23462.0;25302.0;48764.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;13116.0;14299.0;27415.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;55299.0;57204.0;112503.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;28473.0;31978.0;60451.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;26814.0;29863.0;56677.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;33507.0;34754.0;68261.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;14246.0;15973.0;30219.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;16973.0;18705.0;35678.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;40358.0;43103.0;83461.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;340870.0;366387.0;707257.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;42447.0;44604.0;87051.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;21357.0;23514.0;44871.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;9838.0;10772.0;20610.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2023;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;14980.0;16316.0;31296.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;BOUCLE DU MOUHOUN;detail;31393.0;34376.0;65769.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CASCADES;detail;16023.0;18210.0;34233.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE;detail;58310.0;59350.0;117660.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE EST;detail;30288.0;35052.0;65340.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE NORD;detail;29589.0;31356.0;60945.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE OUEST;detail;35134.0;36285.0;71419.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;CENTRE SUD;detail;15193.0;16350.0;31543.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;EST;detail;18163.0;20495.0;38658.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;HAUTS BASSINS;detail;43608.0;46797.0;90405.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NATIONAL;national;370837.0;398103.0;768940.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;NORD;detail;45758.0;47527.0;93285.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;PLATEAU CENTRAL;detail;21431.0;23932.0;45363.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SAHEL;detail;9298.0;10416.0;19714.0
+primaire;5;NOUVEAUX_INSCRITS_CP1;2024;;;-;-;-;-;-;;;filles_plus_garcons_vs_total;0.0;SUD OUEST;detail;16649.0;17957.0;34606.0

@@ -1,0 +1,18 @@
+cycle;tableau;gravite;message
+;;INFO;fichier DONNEES_STATISTQUES_ PRESCOLAIRE ET PRIMAIRE_2016_2025_DCB.xlsx, SHA-256 3b87d432c99a83d935003fa8d89083e2ada851791eb7eb6ddecbdaf8759fe4e8
+prescolaire;1;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+prescolaire;2;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+prescolaire;3;INFO;colonne 1 : l'en-tete dit 'region' mais les valeurs sont de type 'milieu' : valeurs retenues
+prescolaire;3;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+prescolaire;4;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+prescolaire;5;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+prescolaire;6;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+prescolaire;7;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+prescolaire;8;INFO;annees d'en-tete a une seule valeur lues comme annee de FIN de l'annee scolaire (2016 -> 2015-2016) d'apres le titre : a confirmer
+primaire;9;INFO;region corrigee : 'HAUT BASSINS' -> 'HAUTS BASSINS'
+primaire;9;INFO;region corrigee : 'HAUT BASSINS' -> 'HAUTS BASSINS'
+primaire;9;INFO;region corrigee : 'HAUT BASSINS' -> 'HAUTS BASSINS'
+primaire;13;INFO;region corrigee : 'HAUT BASSINS' -> 'HAUTS BASSINS'
+primaire;13;INFO;region corrigee : 'HAUT BASSINS' -> 'HAUTS BASSINS'
+primaire;13;INFO;region corrigee : 'HAUT BASSINS' -> 'HAUTS BASSINS'
+;;ATTENTION;18 cellule(s) contenaient une note adressee a un assistant IA : texte ecarte, non execute (feuille, ligne, colonne) : [('PRESCOLAIRE', 18, 9), ('PRESCOLAIRE', 37, 6), ('PRESCOLAIRE', 55, 14), ('PRESCOLAIRE', 235, 2), ('Feuil1', 2, 6), ('Feuil1', 67, 4), ('Feuil2', 70, 4), ('Feuil3', 96, 4), ('Feuil4', 113, 7), ('Feuil5', 77, 5), ('Feuil6', 58, 1), ('Feuil7', 108, 15), ('Feuil8', 84, 7), ('Feuil9', 166, 10), ('Feuil10', 128, 4), ('Feuil11', 124, 4), ('Feuil12', 102, 8), ('Feuil13', 140, 4)]

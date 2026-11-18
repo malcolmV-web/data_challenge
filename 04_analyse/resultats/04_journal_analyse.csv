@@ -1,0 +1,9 @@
+gravite;message
+INFO;"normes : 50.0 eleves par classe, 50.0 eleves par maitre (public) ; horizon 2029-2030"
+INFO;"scenarios : maintien (TBS de l'annee de base) ; reprise (au moins le TBS median national, 0.792) ; universel (au moins 1.00) ; la tendance lineaire 2020-2024 n'est pas utilisee pour les besoins (extrapolation instable : voir 03_validation_tbs.csv)"
+INFO;"horizon 2029-2030, scenario maintien : deficit national 7454 salles et 8714 maitres publics ; excedent 1459 salles et 893 maitres (provinces excedentaires non compensees)"
+INFO;"horizon 2029-2030, scenario reprise : deficit national 19921 salles et 19432 maitres publics ; excedent 1373 salles et 830 maitres (provinces excedentaires non compensees)"
+INFO;"horizon 2029-2030, scenario universel : deficit national 29193 salles et 27568 maitres publics ; excedent 532 salles et 309 maitres (provinces excedentaires non compensees)"
+INFO;pilier pression_pdi : moyenne des PDI pour 100 enfants (derniere situation disponible) et des EDI du primaire pour 100 eleves (ESU)
+INFO;indice : scenario maintien, poids {'surcharge': 0.3, 'deficit_projete': 0.25, 'vetuste': 0.15, 'equite': 0.15, 'pression_pdi': 0.15}
+INFO;"sensibilite (2000 tirages) : correlation de Spearman moyenne avec le classement de base 0.967 ; 9 des 10 premieres provinces restent dans le top 10 plus de 70 % du temps"

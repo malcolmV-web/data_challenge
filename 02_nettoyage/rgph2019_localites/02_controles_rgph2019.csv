@@ -1,0 +1,17 @@
+controle;valeur;attendu
+localites lues;9480;environ 9 000 a 10 000
+communes RGPH distinctes;346;351
+communes rattachees au COD-AB;346;346
+ordre des colonnes (sexes);tete;tete ou fin
+localites ou Homme + Femme <> Ensemble (ecart 1 ou 2 : arrondi de la source);22;information
+localites ou Homme + Femme <> Ensemble (ecart > 2);8;0
+localites ou somme des ages <> Ensemble (ecart > 2);7;0
+parties de commune avec en-tete chiffre;393;393
+parties ou en-tete <> somme des localites;16;0
+population totale (millions);17.02;20.505 (ligne 'Burkina Faso' du fichier)
+population 6-11 ans (millions);3.209;a comparer aux projections INSD 2019-2020
+provinces anciennes couvertes;45;45
+provinces nouvelles couvertes;47;47
+regions nouvelles couvertes;17;17
+provinces anciennes partagees entre plusieurs nouvelles;2;information
+lignes ecartees (structure inattendue);62;0

@@ -1,0 +1,7 @@
+gravite;rapport;message
+INFO;Rapport_statistique_mensuel_ESU_Janvier_2026;"tableau 1 : 'Total' deplace en derniere colonne (en-tete sur deux lignes) ; valide par le controle somme des ordres = total"
+INFO;Rapport_statistique_mensuel_ESU_Février_2026;"tableau 1 : 'Total' deplace en derniere colonne (en-tete sur deux lignes) ; valide par le controle somme des ordres = total"
+INFO;Rapport_statistique_mensuel_ESU_Février_2026;"annexe 1 : 'Total' deplace en derniere colonne (en-tete sur deux lignes) ; valide par le controle somme des ordres = total"
+INFO;;annexes ramenees a 45 provinces anciennes (attendu <= 45)
+INFO;;evolution 2026-01 -> 2026-02 du total national des structures rouvertes (T2) : -0.16 %
+INFO;;2026-01 -> 2026-02 : 15 region(s) communes, 2 en baisse pour le cumul des structures rouvertes

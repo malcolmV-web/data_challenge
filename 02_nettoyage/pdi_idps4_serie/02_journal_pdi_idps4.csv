@@ -1,0 +1,8 @@
+gravite;message
+INFO;"10104 lignes ; 46 dates (2019-01-27 a 2023-03-31)"
+ATTENTION;1 lignes sans total d'individus (comptees 0)
+INFO;169 lignes partagent la meme commune et la meme date (sites ou sources multiples) : sommees
+INFO;derniere date 2023-03-31 : 303 communes, 45 provinces avec PDI sur 45
+INFO;derniere date : enfants renseignes pour 100 % des lignes
+INFO;controle 2022-12-31 : 13 regions comparees, 0 ecart(s) > 2 %
+ATTENTION;6 cellule(s) contenaient une note adressee a un assistant IA : texte ecarte, non execute

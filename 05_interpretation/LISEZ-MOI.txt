@@ -1,0 +1,2 @@
+Etape 05 : interpretation. Script : scripts/05_interpretation_tableau_de_bord.py (modele HTML dans le meme dossier) -> tableau_de_bord/index.html.
+La page n'utilise que des donnees agregees par province.

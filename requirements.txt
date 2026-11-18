@@ -1,0 +1,6 @@
+# Versions utilisees pour la production des resultats : Python 3.14.4, pandas 3.1.1
+# numpy et openpyxl : versions ecrites automatiquement dans 01_collecte/references/01_versions_utilisees.txt par python.py
+pandas==3.1.1
+numpy
+openpyxl
+scipy
